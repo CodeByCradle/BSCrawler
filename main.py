@@ -1,5 +1,6 @@
 import argparse
 import requests
+from pathlib import Path 
 
 from bs4 import BeautifulSoup as bs
 
@@ -14,46 +15,43 @@ class WebCrawler:
         self.filename_stem: str = filename_stem
 
     def test(self):
-        # too early to remove it XD
+        # soon we will remove it
         print(f"{self.web_link} and {self.filename_stem}")
         
     def get_material(self): 
-        """download material from a given web page link and save it 
+        """Download material from a given web page link and save it 
 
-        Args:
-            web_link (str): a given web page link. 
+        Returns:
+            str: a file path
         """
         r = requests.get(self.web_link)
         if r.status_code == 200:
-            # if the web page link is valid/responding. 
+            # if the web page link is valid/responding. Here, it is not so good to hard code the path ("Data") because we **might** change it in the future.
+            # TODO: find a solution for the data path. 
             with open(f"Data/{self.filename_stem}", "w") as xml_file:
                 xml_file.write(r.text)
-            return True
-        return False
-
-    def extract_data(data_path: str):
-        """Parse xml and save in a nested array. Yes, it is stupid to save it as a nested array. But we can change it later XD
-
-        Args:
-            data_path (str): a data path where I save my downloaded data. 
+            return f"Data/{self.filename_stem}"
+        return None
+    
+    def extract_by_tag(slef, data_path:str, tag: str):
+        """Extract the data according to a given tag from the given data path.
 
         Returns:
-            array : a nested array.
+            list: an array contains all the sentences. 
         """
-        # parse xml. Later, we need to try to download the xml from a given link.
-        with open(data_path) as f:
-            data = f.read() 
-        bs_data = bs(data, "xml")
-        # Japhug, later will probably use another language. 
-        phono_forms =bs_data.find_all("FORM") 
-        jap_material = [phono_form.text for phono_form in phono_forms] # coooooool. I get only the content and the tag is removed. 
-        # Franch
-        translation = bs_data.find_all("TRANSL")
-        translation_material = [sentence.text for sentence in translation]
-        return [jap_material, translation_material]
+        try: 
+            with open(data_path) as f:
+                data = f.read() 
+                bs_data = bs(data, "xml")
+                tag_data = bs_data.find_all(tag) 
+                #TODO: find only the sentence, do not find the form or translation under the word <W> tag
+                _text =  [sentence.text for sentence in tag_data if sentence.find_parent("S")]  
+                return _text
+        except Exception as e:
+            print(f"error is {e}")
+            
 
-
-    def write_data_to_file(input_array, output_filename):
+    def write_data_to_file(self, input_array, output_filename):
         with open(output_filename, "w") as output:
             for each_sentence in input_array:
                 output.write(each_sentence+"\n")
@@ -67,9 +65,10 @@ if __name__ == "__main__":
     #"https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_DELUGE.xml"
     filename = create_filename_from_link(args.link)
     wc = WebCrawler(args.link, filename)
-    test = wc.get_material()
-    print(test)
-    # jap_fr_arrays = extract_data("Data/three_sisters.xml") # did I give the wrong path XD
+    xml_file_path = wc.get_material()
+    for tag in ["FORM", "TRANSL"]:
+        the_text = wc.extract_by_tag(Path(xml_file_path).as_posix(), tag) 
+        print(the_text)
     # # this should work, in theory....
     # write_data_to_file(jap_fr_arrays[0], "jap_three_sisters.txt")
     # write_data_to_file(jap_fr_arrays[1], "fr_three_sisters.txt")
