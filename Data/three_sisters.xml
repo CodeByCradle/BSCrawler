@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT xml:lang="jya" id="crdo-JYA_TARURNWS">
+    <HEADER>
+        <TITLE xml:lang="fr">TARURNWS</TITLE>
+        <SOUNDFILE href="TARURNWS.wav"/>
+    </HEADER>
+    <S id="TARURNWSs1">
+        <AUDIO start="0.0000" end="7.5298"/>
+        <FORM kindOf="phono">kɯɕɯŋgɯ kɯɕɯŋgɯ tɕe, tɤru ʁnɯs pjɤ-tú-ndʑi.</FORM>
+        <TRANSL xml:lang="fr">Autrefois, il y avait deux chefs de village.</TRANSL>
+    </S>
+    <S id="TARURNWSs2">
+        <AUDIO start="7.5298" end="12.0056"/>
+        <FORM kindOf="phono">tɯ-tɯpɯ nɯ stot tɯphu koŋβzaŋjaŋrtɤnbu pjɤ-rmi</FORM>
+        <TRANSL xml:lang="fr">L’un d’eux s’appelait Kun-bzang yang bstan-po du haut de la vallée.</TRANSL>
+    </S>
+    <S id="TARURNWSs3">
+        <AUDIO start="12.0056" end="16.9026"/>
+        <FORM kindOf="phono">tɯ-tɯpɯ nɯ smɤt tɯmda rɟɤlpu pjɤ-rmi.</FORM>
+        <TRANSL xml:lang="fr">L’autre s’appelait le roi du bas de la vallée.</TRANSL>
+    </S>
+    <S id="TARURNWSs4">
+        <AUDIO start="16.9026" end="23.3793"/>
+        <FORM kindOf="phono">stot tɯ-phu koŋ-βzoŋ-jaŋ-rtɤnbu ɣɯ ɯ-tɕɯ nɯnɯ ɯ-rʑaβ pjɤ-ra</FORM>
+        <TRANSL xml:lang="fr">Le fils de Kun-bzang avait besoin d’une épouse.</TRANSL>
+    </S>
+    <S id="TARURNWSs5">
+        <AUDIO start="23.3794" end="30.9093"/>
+        <FORM kindOf="phono">ɯ-rʑaβ kɯ-ɕar jo-ɕe, tɕendɤre ɯ-ŋga mɤ-kɯ-pɯpe ʑo to-ŋga,</FORM>
+        <TRANSL xml:lang="fr">Il partit chercher une épouse, et mit des habits de mauvaise qualité.</TRANSL>
+    </S>
+    <S id="TARURNWSs6">
+        <AUDIO start="30.9093" end="39.5976"/>
+        <FORM kindOf="phono">khɯna-ndʐi tɯ-rcu ci to-ŋga, ɯ-phɯm nɯ tɕu nɤki tasa-rŋu ci ɲɤ-rku tɯ-lʁɤt-tɕɯ ɲɤ-rku</FORM>
+        <TRANSL xml:lang="fr">Il prit une veste en peau de chien, et il y mit un petit sachet de sésame grillé.</TRANSL>
+    </S>
+    <S id="TARURNWSs7">
+        <AUDIO start="39.5976" end="48.7071"/>
+        <FORM kindOf="phono">tɕendɤre to-rɤŋgat tɕe cho-ɕe tɕɤn, smɤt tɯ-mda rɟɤlpu ɣɯ ɯ-sakaβ nɯ tɕu pjirɯ tɯ-tɤri to-βraʁ.</FORM>
+        <TRANSL xml:lang="fr">Ensuite, il se mit en route, et il accrocha un collier en corail sur le puits du roi du bas de la vallée.</TRANSL>
+    </S>
+    <S id="TARURNWSs8">
+        <AUDIO start="48.7071" end="56.1843"/>
+        <FORM kindOf="phono">tɕendɤre [stɤ...] smɤt tɯ-mda rɟɤlpu ɯ-me χsɯm pjɤ-tu, ɯ-me χsɯm pjɤ-tu tɕe</FORM>
+        <TRANSL xml:lang="fr">Le roi du bas de la vallée avait trois filles.</TRANSL>
+    </S>
+    <S id="TARURNWSs9">
+        <AUDIO start="56.1843" end="63.0296"/>
+        <FORM kindOf="phono">stu kɯ-wxti nɯ kɯ-kaβ ko-ɕe tɕe nɤki pjɯ-ru tɕɤn</FORM>
+        <TRANSL xml:lang="fr">La plus grande alla prendre de l’eau, et elle regarda vers le bas.</TRANSL>
+    </S>
+    <S id="TARURNWSs10">
+        <AUDIO start="63.0296" end="66.4522"/>
+        <FORM kindOf="phono">sa-kaβ ɯ-qa nɯ tɕu pjirɯ tɯ-tɤri pjɤ-tu tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Au bas du puits, il y avait un collier en corail, (la réflexion de la chaine sur la surface de l’eau du puits).</TRANSL>
+    </S>
+    <S id="TARURNWSs11">
+        <AUDIO start="66.4522" end="74.8245"/>
+        <FORM kindOf="phono">ɯ-ɲchɣaʁ-thɯm nɯ kɯ to-sɯ-rku nɤ to-sɯ-rku ri maka mɯ-pjɤ-khɯ tɕe ɲo-nɯɕe, ɲɤ-nɯri tɕɤn</FORM>
+        <TRANSL xml:lang="fr">Elle essaya de l’attraper avec son récipient en écorce de bouleau, mais elle n’y parvint pas du tout.</TRANSL>
+    </S>
+    <S id="TARURNWSs12">
+        <AUDIO start="74.8245" end="82.3017"/>
+        <FORM kindOf="phono">"aki ndʐɯnbu tɯ-rme tɤ-rɤru ma a-pa a-ma zlɤβtɕhɯ mbɣom tɕe aʑo ɕe-a ra" to-ti</FORM>
+        <TRANSL xml:lang="fr">(alors, elle voit le fils du roi déguisé en mendiant allongé par terre) « Vous, le monsieur en bas, levez-vous car de dois passer, mes parents veulent de l’eau de façon urgente », dit-elle</TRANSL>
+    </S>
+    <S id="TARURNWSs13">
+        <AUDIO start="82.3017" end="88.1992"/>
+        <FORM kindOf="phono">tɕeri stot tɯphu koŋβzoŋjaŋrtɤnbu ɯ-tɕɯ nɯ kɯ</FORM>
+        <TRANSL xml:lang="fr">Mais le fils de Kun-bzang yang bstan-po du haut de la vallée (dit :)</TRANSL>
+    </S>
+    <S id="TARURNWSs14">
+        <AUDIO start="88.1992" end="92.3063"/>
+        <FORM kindOf="phono">"a-tɤɕime, ɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯmɢla,</FORM>
+        <TRANSL xml:lang="fr">« Mademoiselle, si vous êtes pressée passez moi par dessus,</TRANSL>
+    </S>
+    <S id="TARURNWSs15">
+        <AUDIO start="92.3063" end="94.6758"/>
+        <FORM kindOf="phono">mɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯ-pjál-a ma</FORM>
+        <TRANSL xml:lang="fr">si vous n’êtes pas pressée contournez moi car</TRANSL>
+    </S>
+    <S id="TARURNWSs16">
+        <AUDIO start="94.6758" end="97.6377"/>
+        <FORM kindOf="phono">kɯ-sthi ci a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn" to-ti tɕe</FORM>
+        <TRANSL xml:lang="fr">je suis plein de poux et de lentes » dit-il</TRANSL>
+    </S>
+    <S id="TARURNWSs17">
+        <AUDIO start="97.6377" end="101.0439"/>
+        <FORM kindOf="phono">tɤ-sa-rŋu nɯ tɯ-spra "rʁɯβ rʁɯβ rʁɯβ" to-ndza.</FORM>
+        <TRANSL xml:lang="fr">et il avala bruyament une poignée de sésame grillé.</TRANSL>
+    </S>
+    <S id="TARURNWSs18">
+        <AUDIO start="101.0439" end="106.0199"/>
+        <FORM kindOf="phono">tɕendɤre "ta-nɯmɢla ɕti ma aʑo ɕɯ-kɤ-pjɤl mɤ-tsu-a" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Je vous contournerai car je n’ai pas le temps, dit-elle.</TRANSL>
+    </S>
+    <S id="TARURNWSs19">
+        <AUDIO start="106.0199" end="109.2483"/>
+        <FORM kindOf="phono">tɕe nɯ tɯ-rme nɯ ɲo-nɯmɢla tɕe ɲo-nɯɕe tɕe</FORM>
+        <TRANSL xml:lang="fr">Alors elle passa par-dessus le garçon, et retourna chez elle (vers l’ouest).</TRANSL>
+    </S>
+    <S id="TARURNWSs20">
+        <AUDIO start="109.2483" end="119.1411"/>
+        <FORM kindOf="phono">tɕe nɯ qhu tɕe nɤkínɯ, stu kɯ-wxti ɣɯ ɯ-pa nɯ kɯ-kaβ pjɤ-ɣi, tɕɤn ko-ɣi tɕɤn</FORM>
+        <TRANSL xml:lang="fr">Ensuite, la soeur cadette de la grande fille vint prendre (de l’eau),</TRANSL>
+    </S>
+    <S id="TARURNWSs21">
+        <AUDIO start="119.1411" end="125.2426"/>
+        <FORM kindOf="phono">"aki ndʐɯnbu tɯ-rme tɤ-rɤru ma a-pa a-ma zlɤβtɕhɯ mbɣom tɕe aʑo ɕɯ-káβ-a ra" to-ti</FORM>
+        <TRANSL xml:lang="fr">« Vous, le monsieur en bas, levez-vous car de dois passer, mes parents veulent de l’eau de façon urgente », dit-elle</TRANSL>
+    </S>
+    <S id="TARURNWSs22">
+        <AUDIO start="125.2426" end="131.8180"/>
+        <FORM kindOf="phono">tɕeri "ɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯmɢla, mɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯ-pjál-a ma</FORM>
+        <TRANSL xml:lang="fr">Mais (il dit :) « si vous êtes pressée enjambez-moi, si vous n’êtes pas pressée contournez moi car</TRANSL>
+    </S>
+    <S id="TARURNWSs23">
+        <AUDIO start="131.8180" end="136.7940"/>
+        <FORM kindOf="phono">kɯ-sthi a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn" to-ti tɕe li tɤ-sa-rŋu nɯ tɯ-spra to-ndza.</FORM>
+        <TRANSL xml:lang="fr">je suis plein de poux et de lentes » dit-il, et il avala une poignée de sésame grillé</TRANSL>
+    </S>
+    <S id="TARURNWSs24">
+        <AUDIO start="136.7940" end="144.2283"/>
+        <FORM kindOf="phono">tɕeri "ta-nɯmɢla ɕti ma aʑo kɤ-pjɤl a-ʁa me" to-ti tɕe ko-ɕe tɕe</FORM>
+        <TRANSL xml:lang="fr">Elle dit "je vais t'enjamber car je n'ai pas le temps de te contourner".</TRANSL>
+    </S>
+    <S id="TARURNWSs25">
+        <AUDIO start="144.2283" end="148.7896"/>
+        <FORM kindOf="phono">sa-kaβ tɕe pjɯ-ru tɕe li pjirɯ tɯ-tɤ-ri nɯ pjɤ-tu tɕɤn</FORM>
+        <TRANSL xml:lang="fr">Elle regarda vers le fond du puits, et vit elle aussi qu’il y avait un collier en corail (en fait, la réflexion dans l’eau de la chaine que le fils du roi avait accrochée)</TRANSL>
+    </S>
+    <S id="TARURNWSs26">
+        <AUDIO start="148.7896" end="151.8995"/>
+        <FORM kindOf="phono">to-sɯ-rku nɤ to-sɯ-rku ri maka mɯ-pjɤ-khɯ</FORM>
+        <TRANSL xml:lang="fr">Elle essayait de l’attraper (avec son récipient), mais elle ne réussit pas du tout.</TRANSL>
+    </S>
+    <S id="TARURNWSs27">
+        <AUDIO start="151.8995" end="154.5356"/>
+        <FORM kindOf="phono">tɕe li tɯci to-fkur tɕe ɲo-nɯɕe</FORM>
+        <TRANSL xml:lang="fr">puis elle prit l’eau sur ses épaules et partit</TRANSL>
+    </S>
+    <S id="TARURNWSs28">
+        <AUDIO start="154.5356" end="160.1632"/>
+        <FORM kindOf="phono">tɕe "aki ndʐɯnbu tɯ-rme tɤ-rɤru ma aʑo mbɣóm-a" to-ti,</FORM>
+        <TRANSL xml:lang="fr">(la deuxième soeur) dit : « Vous, le monsieur en bas, levez-vous, car je suis pressée » (ici, on observe une répétition dans le récit )</TRANSL>
+    </S>
+    <S id="TARURNWSs29">
+        <AUDIO start="160.1632" end="166.7979"/>
+        <FORM kindOf="phono">tɕeri "ɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯmɢla, mɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯpjál-a ma</FORM>
+        <TRANSL xml:lang="fr">mais (le fils du roi) dit : « Si vous êtes pressée enjambez-moi, si vous n’êtes pas pressée contournez moi car</TRANSL>
+    </S>
+    <S id="TARURNWSs30">
+        <AUDIO start="166.7979" end="171.1519"/>
+        <FORM kindOf="phono">kɯ-sthi a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn, nɤ-pi kɯ tɤ́-wɣ-nɯmɢla ɕti to-ti"</FORM>
+        <TRANSL xml:lang="fr">j’ai beaucoup de poux et de lentes, votre soeur m’a enjambé, dit-il</TRANSL>
+    </S>
+    <S id="TARURNWSs31">
+        <AUDIO start="171.1519" end="173.8176"/>
+        <FORM kindOf="phono">"aʑo nɯ ta-nɯmɢla ɕti" to-ti tɕe</FORM>
+        <TRANSL xml:lang="fr">« Je vais donc vous enjamber » dit-elle,</TRANSL>
+    </S>
+    <S id="TARURNWSs32">
+        <AUDIO start="173.8176" end="183.2957"/>
+        <FORM kindOf="phono">ɲɤ-nɯmɢla tɕe ɲo-nɯɕe ɲɯ-ŋu. tɕendɤre, stu kɯ-maqhu tɕɤn nɯ-me stu kɯ-xtɕi nɯ kɯ-kaβ ko-ɣi,</FORM>
+        <TRANSL xml:lang="fr">Elle l’enjamba et rentra chez elle (vers l’ouest), puis la plus petite, leur fille la plus petite vint (vers l’est) prendre (de l’eau).</TRANSL>
+    </S>
+    <S id="TARURNWSs33">
+        <AUDIO start="183.2957" end="189.5157"/>
+        <FORM kindOf="phono">tɕendɤre li ko-ɣi tɕe, "aki ndʐɯnbu tɯ-rme tɤ-rɤru ma a-pa a-ma zlɤβtɕhɯ mbɣom tɕe</FORM>
+        <TRANSL xml:lang="fr">Elle vint elle aussi, et dit : « Vous, le monsieur en bas, levez-vous car de dois passer, mes parents veulent de l’eau de façon urgente,</TRANSL>
+    </S>
+    <S id="TARURNWSs34">
+        <AUDIO start="189.5157" end="191.2632"/>
+        <FORM kindOf="phono">aʑo mbɣóm-a" to-ti.</FORM>
+        <TRANSL xml:lang="fr">« je suis pressée » dit-elle.</TRANSL>
+    </S>
+    <S id="TARURNWSs35">
+        <AUDIO start="191.2632" end="196.6538"/>
+        <FORM kindOf="phono">"ɯ́-ɲɯ-tɯ-mbɣom nɤ ku-kɯ-nɯmɢla, mɯ́-ɲɯ-tɯ-mbɣom nɤ tu-kɯ-nɯpjál-a ma</FORM>
+        <TRANSL xml:lang="fr">« Si vous êtes pressée enjambez-moi, si vous n’êtes pas pressée contournez moi car</TRANSL>
+    </S>
+    <S id="TARURNWSs36">
+        <AUDIO start="196.6538" end="200.4154"/>
+        <FORM kindOf="phono">nɤ-pi ni kɯ ʁnaʁna kɯ ɣɯ-nɯmɢlá-ndʑi ɕti" to-ti,</FORM>
+        <TRANSL xml:lang="fr">vos deux soeurs m’ont enjambé. »</TRANSL>
+    </S>
+    <S id="TARURNWSs37">
+        <AUDIO start="200.4154" end="205.5468"/>
+        <FORM kindOf="phono">tɕénɤ tɕheme nɯ kɯ "ʁʑɯnɯ tɯ-rme kɤ-nɯmɢla me" to-ti tɕe,</FORM>
+        <TRANSL xml:lang="fr">La fille dit : « on n’enjambe pas un garçon ».</TRANSL>
+    </S>
+    <S id="TARURNWSs38">
+        <AUDIO start="205.5468" end="210.0785"/>
+        <FORM kindOf="phono">to-nɯ-pjɤl tɕe ko-ɕe, tɕe tɯci to-rku tɕeri,</FORM>
+        <TRANSL xml:lang="fr">Elle le contourna et alla vers l’est (continua sa route vers le puits), elle prit de l’eau</TRANSL>
+    </S>
+    <S id="TARURNWSs39">
+        <AUDIO start="210.0785" end="217.5924"/>
+        <FORM kindOf="phono">nɯnɯ pjɤ-ɕqraʁ tɕɤn pjirɯ tɯ-tɤri nɯ ɯ-qa ntsɯ to-saʁthɯm to-rku nɤ to-rku mɯ-pjɤ-khɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Celle-là était intelligente, elle (essaya d'abord) d’attraper le collier de corail (avec son récipient en bouleau) en puisant au bas (du puits), mais elle n’y parvenait pas,</TRANSL>
+    </S>
+    <S id="TARURNWSs40">
+        <AUDIO start="217.5924" end="220.7746"/>
+        <FORM kindOf="phono">kɯ-maqhu tɕe ɯ-ɲchɣaʁ-thɯm taʁ nɤ taʁ to-tsɯm tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">puis elle utilisa le récipient en écorce de bouleau pour attraper (le collier) qui était (pendu) en haut</TRANSL>
+    </S>
+    <S id="TARURNWSs41">
+        <AUDIO start="220.7746" end="224.0567"/>
+        <FORM kindOf="phono">pjirɯ tɯ-tɤ-ri nɯ pjɤ-nɯmɟa.</FORM>
+        <TRANSL xml:lang="fr">et elle obtint le collier de corail.</TRANSL>
+    </S>
+    <S id="TARURNWSs42">
+        <AUDIO start="224.0567" end="229.8546"/>
+        <FORM kindOf="phono">tɕe nɯ rɟɤlpu ɯ-tɕɯ nɯ kɯ "nɤ-ki nɯ aʑɯɣ ŋu tɕeri ɲɯ-ta-mbi" to-ti.</FORM>
+        <TRANSL xml:lang="fr">Alors, le fils du roi dit : « L’objet que tu tiens est à moi, mais je te le donne. »</TRANSL>
+    </S>
+    <S id="TARURNWSs43">
+        <AUDIO start="229.8546" end="235.2693"/>
+        <FORM kindOf="phono">tɕendɤre tɕheme-pɯ nɯ kɯ pjirɯ tɯ-tɤ-ri nɯ to-nɯndo,</FORM>
+        <TRANSL xml:lang="fr">alors la fille prit le collier de corail,</TRANSL>
+    </S>
+    <S id="TARURNWSs44">
+        <AUDIO start="235.2693" end="238.2849"/>
+        <FORM kindOf="phono">tɕe "tɤ-rɤru ma aʑo mbɣóm-a" to-ti ri,</FORM>
+        <TRANSL xml:lang="fr">et (elle dit :) Lève-toi car je suis pressée (répétition dans le récit).</TRANSL>
+    </S>
+    <S id="TARURNWSs45">
+        <AUDIO start="238.2849" end="243.2997"/>
+        <FORM kindOf="phono">"ɯ́-ɲɯ-tɤ-mbɣom nɤ tu-kɯ-nɯmɢla, mɯ́-ɲɯ-tɤ-mbɣom nɤ tu-kɯ-nɯmpjál-a ma</FORM>
+        <TRANSL xml:lang="fr">« Si vous êtes pressée enjambez-moi, si vous n’êtes pas pressée contournez moi ;</TRANSL>
+    </S>
+    <S id="TARURNWSs46">
+        <AUDIO start="243.2997" end="246.9150"/>
+        <FORM kindOf="phono">nɤ-pi ni ʁna-ʁna kɯ tɤ́-wɣ-nɯ-mɢlá-ndʑi ɕti" to-ti.</FORM>
+        <TRANSL xml:lang="fr">vos deux soeurs m’ont enjambé. »</TRANSL>
+    </S>
+    <S id="TARURNWSs47">
+        <AUDIO start="246.9150" end="254.0291"/>
+        <FORM kindOf="phono">tɕeri "ʁzɯnɯ tɯ-rme kɤ-nɯmɢla me" to-ti tɕɤn, to-nɯpjɤl tɕe to-nɯɕe.</FORM>
+        <TRANSL xml:lang="fr">mais elle dit « on n’enjambe pas un garçon », elle le contourna et rentra chez elle.</TRANSL>
+    </S>
+    <S id="TARURNWSs48">
+        <AUDIO start="254.0291" end="257.6777"/>
+        <FORM kindOf="phono">tɕe nɯɕe tɤ-ŋu tɕe, to-ti</FORM>
+        <TRANSL xml:lang="fr">et au moment de partir, il dit :</TRANSL>
+    </S>
+    <S id="TARURNWSs49">
+        <AUDIO start="257.6777" end="262.0261"/>
+        <FORM kindOf="phono">"wortɕhi ʑo nɤ-pa nɤ-ma ni ndʑi-ɕki a-tɤ-tɯ-ti tɕe</FORM>
+        <TRANSL xml:lang="fr">« S’il te plaît, demande à tes parents</TRANSL>
+    </S>
+    <S id="TARURNWSs50">
+        <AUDIO start="262.0261" end="264.6418"/>
+        <FORM kindOf="phono">nɯ-paʁ-tshi ɯ-kɯ-rɤru ɲɯ-ɣi-a ɯ́-ɲɯ-pe ma</FORM>
+        <TRANSL xml:lang="fr">serait-il possible que je vienne surveiller vos cochons ?</TRANSL>
+    </S>
+    <S id="TARURNWSs51">
+        <AUDIO start="264.6418" end="268.4737"/>
+        <FORM kindOf="phono">kɯ-sthi ci a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn, ɲɯ-nɤ-ndʐo-a tɕe mɯ́-j-pe" to-ti,</FORM>
+        <TRANSL xml:lang="fr">J’ai tant de lentes et de poux, j’ai froid, ce n’est pas bien comme ça. »</TRANSL>
+    </S>
+    <S id="TARURNWSs52">
+        <AUDIO start="268.4737" end="273.4885"/>
+        <FORM kindOf="phono">tɕendɤre "jɤɣ tɕe tu-ti-a" to-ti tɕɤn to-nɯɕe tɕe ɲɤ-rɤfɕɤt.</FORM>
+        <TRANSL xml:lang="fr">alors elle dit : « d’accord, je le dirai », rentra chez elle et transmit l’information</TRANSL>
+    </S>
+    <S id="TARURNWSs53">
+        <AUDIO start="273.4885" end="281.4190"/>
+        <FORM kindOf="phono">tɕeri "jɤɣ" to-tí-nɯ tɕɤn, nɯ smɤt tɯ-mda rɟɤlpu ra nɯ-paʁ-tshi kɯ-rɤru jo-ɕe</FORM>
+        <TRANSL xml:lang="fr">Il dirent « d’accord », et il (le fils du roi du haut de la vallée, déguisé en mendiant) alla s’occuper de la nourriture des cochons du roi du bas de la vallée.</TRANSL>
+    </S>
+    <S id="TARURNWSs54">
+        <AUDIO start="281.4190" end="287.6000"/>
+        <FORM kindOf="phono">tɕendɤre nɯ-me stu kɯ-wxti nɯ paʁ-tshi ɯ-kɯ-lɤt pɯ-ɣe tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">(Tout d’abord, ces fut au tour de ) l’aînée de descendre (dans la bauge des cochons, qui est située au rez-de-chaussé des maisons traditionnelles, les gens habitant dans les étages), pour donner la pâtée aux cochons, (et à chaque fois qu’elle descendait)</TRANSL>
+    </S>
+    <S id="TARURNWSs55">
+        <AUDIO start="287.6000" end="290.2989"/>
+        <FORM kindOf="phono">nɯri ɯ-ku zɯ tɤ-ŋkhɯt to-lɤt,</FORM>
+        <TRANSL xml:lang="fr">et elle lui donnait un coup de poing sur la tête,</TRANSL>
+    </S>
+    <S id="TARURNWSs56">
+        <AUDIO start="290.2989" end="292.5269"/>
+        <FORM kindOf="phono">nɯ maʁ nɤ scoʁ-qhu ci to-lɤt pjɤ-ŋu</FORM>
+        <TRANSL xml:lang="fr">ou bien un coup du revers de la louche</TRANSL>
+    </S>
+    <S id="TARURNWSs57">
+        <AUDIO start="292.5269" end="296.7370"/>
+        <FORM kindOf="phono">tɕendɤre tɯ-lɤt nɯ pjɤ-ɣi ri</FORM>
+        <TRANSL xml:lang="fr">Ensuite, ce fut à la cadette de descendre</TRANSL>
+    </S>
+    <S id="TARURNWSs58">
+        <AUDIO start="296.7370" end="298.3887"/>
+        <FORM kindOf="phono">li nɤ nɯ tu-ste pjɤ-ɕti</FORM>
+        <TRANSL xml:lang="fr">et elle agit de la même façon</TRANSL>
+    </S>
+    <S id="TARURNWSs59">
+        <AUDIO start="298.3887" end="303.9342"/>
+        <FORM kindOf="phono">tɕe kɯ-máqhu tɕe nɤkínɯ, nɯ-me stu kɯ-xtɕi nɯ pjɤ-ɣi,</FORM>
+        <TRANSL xml:lang="fr">enfin, leur fille benjamine descendit,</TRANSL>
+    </S>
+    <S id="TARURNWSs60">
+        <AUDIO start="303.9341" end="313.6756"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ, "tɤ-rɤru" to-ti ri, "wo tɤ-saʁdɯ́ɣ-a tɕe nɤki, tɤ-ŋkhɯt tɤ-nɯ-lɤt ma</FORM>
+        <TRANSL xml:lang="fr">et elle dit « levez-vous », et il dit « O, je dérange, donnez-moi un coup de poing si vous voulez, car</TRANSL>
+    </S>
+    <S id="TARURNWSs61">
+        <AUDIO start="313.6756" end="317.4920"/>
+        <FORM kindOf="phono">nɤ-pi ni kɯ ʁna-ʁna kɯ nɯ tɤ-ŋkhɯt tu-lɤ́t-ndʑi pɯ-ɕti", to-ti</FORM>
+        <TRANSL xml:lang="fr">vos deux soeurs m’ont donné des coups de poing.</TRANSL>
+    </S>
+    <S id="TARURNWSs62">
+        <AUDIO start="317.4920" end="322.8477"/>
+        <FORM kindOf="phono">tɕheme-pɯ nɯ kɯ "a, ʁʑɯnɯ tɯ-rme kɤ-nɯ-ʁndɯ-ʁndɯ me" to-ti</FORM>
+        <TRANSL xml:lang="fr">La petite fille dit alors « ah, on ne frappe pas un garçon ».</TRANSL>
+    </S>
+    <S id="TARURNWSs63">
+        <AUDIO start="322.8477" end="325.0195"/>
+        <FORM kindOf="phono">tɕe maka mɯ-to-ʁndɯ.</FORM>
+        <TRANSL xml:lang="fr">et elle ne le battit pas.</TRANSL>
+    </S>
+    <S id="TARURNWSs64">
+        <AUDIO start="325.0195" end="330.8812"/>
+        <FORM kindOf="phono">tɕe "wortɕhi ʑo nɤ-mu nɤ-wa ni ndʑi-ɕki nɯ-smi kɯ-βlɯ tu-ɣi-a ɯ́-ɲɯ-pe ma,</FORM>
+        <TRANSL xml:lang="fr">« S’il vous plaît, demandez à vos parents si je peux aller (monter) m’occuper du feu,</TRANSL>
+    </S>
+    <S id="TARURNWSs65">
+        <AUDIO start="330.8812" end="334.0862"/>
+        <FORM kindOf="phono">kɯtɕu ɲɯ-nɤndʐo-a a-tɤ-tɯ-ti je" to-ti.</FORM>
+        <TRANSL xml:lang="fr">car ici j’ai froid », dit-il.</TRANSL>
+    </S>
+    <S id="TARURNWSs66">
+        <AUDIO start="334.0862" end="338.8726"/>
+        <FORM kindOf="phono">kɯ-mɤku ɯ-pi ni ndʑi-ɕki nɯ ra to-ti ri, mɯ-ɲɤ-rɤfɕɤ́t-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">Auparavant, il avait dit la même phrase à ses deux grandes soeurs, mais celles-ci n’avaient pas transmis l’information.</TRANSL>
+    </S>
+    <S id="TARURNWSs67">
+        <AUDIO start="338.8726" end="342.8366"/>
+        <FORM kindOf="phono">tɕendɤre stu kɯ-xtɕi nɯ tɤ-ari tɕe ɲɤ-rɤfɕɤt,</FORM>
+        <TRANSL xml:lang="fr">et la plus petite monta (dans la partie de la maison où habitent les gens et transmit l’information.</TRANSL>
+    </S>
+    <S id="TARURNWSs68">
+        <AUDIO start="342.8366" end="348.1923"/>
+        <FORM kindOf="phono">tɕe "jɤɣ" to-tí-nɯ tɕendɤre to-ɕe tɕe tó-wɣ-sɯ-ɣe tɕɤn</FORM>
+        <TRANSL xml:lang="fr">Ils acceptèrent, et le firent venir en haut (pour faire le feu).</TRANSL>
+    </S>
+    <S id="TARURNWSs69">
+        <AUDIO start="348.1923" end="351.6714"/>
+        <FORM kindOf="phono">smɤt tɯ-mda rɟɤlpu ra nɯ-smi kɯ-βlɯ pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">Il (devint) la personne chargée de s’occuper du feu chez ceux du roi du bas de la vallée.</TRANSL>
+    </S>
+    <S id="TARURNWSs70">
+        <AUDIO start="351.6714" end="358.4820"/>
+        <FORM kindOf="phono">tɕe kɯ-máqhu tɕɤn li nɤkínɯ nɯ-me stu kɯ-wxti cho</FORM>
+        <TRANSL xml:lang="fr">Ensuite, la grande soeur et</TRANSL>
+    </S>
+    <S id="TARURNWSs71">
+        <AUDIO start="358.4820" end="361.7555"/>
+        <FORM kindOf="phono">ɯ-pa nɯ ni tɤ-ŋké-ndʑi tɕɤn kɤ-arí-ndʑi tɕe</FORM>
+        <TRANSL xml:lang="fr">la cadette, lorsque qu’elles marchaient (dans la maison), lorsqu’elles allaient d’un côté,</TRANSL>
+    </S>
+    <S id="TARURNWSs72">
+        <AUDIO start="361.7555" end="365.4678"/>
+        <FORM kindOf="phono">scoʁ-qhu ci tu-lɤ́t-ndʑi nɯ-arí-ndʑi tɕe scoʁ-qhu ci ntsɯ tu-lɤ́t-ndʑi pjo-ŋu.</FORM>
+        <TRANSL xml:lang="fr">elles lui donnaient un coup du revers de la louche, et lorsqu’elles allaient de l’autre, elles lui donnaient un coup du revers de la louche</TRANSL>
+    </S>
+    <S id="TARURNWSs73">
+        <AUDIO start="365.4678" end="369.0496"/>
+        <FORM kindOf="phono">stu kɯ-xtɕi nɯ kɯ maka ʑo nɯ ra mɯ-pjɤ-stu tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">La benjamine n'agissait pas du tout comme elles.</TRANSL>
+    </S>
+    <S id="TARURNWSs74">
+        <AUDIO start="369.0496" end="373.3668"/>
+        <FORM kindOf="phono">nɯstáʁnɯ kɤ-ndzɤ-tshi kɯ-tu ra tɕhi kɤ-cha ɲɯ́-wɣ-mbi pjo-ŋu</FORM>
+        <TRANSL xml:lang="fr">Elle lui donnait à manger autant qu’elle pouvait</TRANSL>
+    </S>
+    <S id="TARURNWSs75">
+        <AUDIO start="373.3668" end="376.3731"/>
+        <FORM kindOf="phono">tɕe kɯ-máqhu tɕe stu kɯ-wxti nɯ ɯ-ɕki "wortɕhi</FORM>
+        <TRANSL xml:lang="fr">ensuite, il dit à la plus grande : « s’il vous plaît,</TRANSL>
+    </S>
+    <S id="TARURNWSs76">
+        <AUDIO start="376.3731" end="382.4337"/>
+        <FORM kindOf="phono">"nɤ-pa nɤ-ma ni ndʑi-ɕki a-tɤ-tɯ-ti tɕɤn, ruŋgu nɯ-kɯ-lɤɣ lu-ɕi-a ɯ́-ɲɯ-pe a-tɤ-tɯ-ti ma</FORM>
+        <TRANSL xml:lang="fr">Demandez à vos parents si je peux aller m’occuper de faire paître (votre bétail) dans les pâturages,</TRANSL>
+    </S>
+    <S id="TARURNWSs77">
+        <AUDIO start="382.4337" end="388.9135"/>
+        <FORM kindOf="phono">kɯ-sthi ci a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn", to-ti tɕeri stu kɯ-wxti nɯ ɯ-pri mɯ-ɲɤ-rɤfɕɤt.</FORM>
+        <TRANSL xml:lang="fr">car j’ai tant de poux et de lentes », mais l’aînée ne transmit pas le message.</TRANSL>
+    </S>
+    <S id="TARURNWSs78">
+        <AUDIO start="388.9135" end="393.0577"/>
+        <FORM kindOf="phono">nɯ ɯ-pa nɯ ɕki línɤ to-ti ri, ɯ-pa nɯ li mɯ-ɲɤ-rɤfɕɤt.</FORM>
+        <TRANSL xml:lang="fr">Il dit la même chose à la cadette, mais celle-ci ne transmit pas non plus l’information.</TRANSL>
+    </S>
+    <S id="TARURNWSs79">
+        <AUDIO start="393.0577" end="398.0523"/>
+        <FORM kindOf="phono">tɕe stu kɯ-xtɕi nɯ ɯ-ɕki tɕɤn "wortɕhi nɤ-pa nɤ-ma ni ndʑi-ɕki</FORM>
+        <TRANSL xml:lang="fr">Alors, il dit à la benjamine : « s’il vous plaît, demandez à votre père et à votre mère</TRANSL>
+    </S>
+    <S id="TARURNWSs80">
+        <AUDIO start="398.0523" end="402.5439"/>
+        <FORM kindOf="phono">nɯ-kɯ-lɤɣ lu-ɕi-a ɯ́-ɲɯ-pe a-tɤ-tɯ-ti ma kɯ-sthi a-zrɯɣ a-ndʑirɯ ɲɯ-dɤn" to-ti.</FORM>
+        <TRANSL xml:lang="fr">si je peux aller m’occuper d’aller faire paître les animaux, car j’ai tant de poux et de lentes.</TRANSL>
+    </S>
+    <S id="TARURNWSs81">
+        <AUDIO start="402.5439" end="409.5866"/>
+        <FORM kindOf="phono">tɤ-sa-rŋu kɯ-spra to-ndza tɕendɤre ɲɤ-rɤ-fɕɤt tɕeri "jɤɣ" to-tí-nɯ,</FORM>
+        <TRANSL xml:lang="fr">et il mangea une poignée de sésame grillé, et elle transmit l’information, et ils dirent « d’accord ».</TRANSL>
+    </S>
+    <S id="TARURNWSs82">
+        <AUDIO start="409.5866" end="412.2456"/>
+        <FORM kindOf="phono">tɕendɤre nɯ-kɯ-lɤɣ lo-ɕe.</FORM>
+        <TRANSL xml:lang="fr">et il alla faire paître les animaux.</TRANSL>
+    </S>
+    <S id="TARURNWSs83">
+        <AUDIO start="412.2456" end="418.5337"/>
+        <FORM kindOf="phono">nɯ-kɯ-lɤɣ lɤ-ari tɕe tɕendɤre sɲikuku ʑo tɤ-lu ɯ-kɯ-ru kɯ-ɕe pjɤ-ra tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Il alla faire paître les animaux, et il devait allait s'occuper du lait tous les jours,</TRANSL>
+    </S>
+    <S id="TARURNWSs84">
+        <AUDIO start="418.5337" end="421.7796"/>
+        <FORM kindOf="phono">nɯ-me stu kɯ-wxti nɯ lɤ-ari tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Ce fut d’abord au tour de leur fille aînée de venir,</TRANSL>
+    </S>
+    <S id="TARURNWSs85">
+        <AUDIO start="421.7796" end="426.6903"/>
+        <FORM kindOf="phono">tɕe nɯnɯ tɤ-tɕɯ nɯ kɯ-saqru chɯ-ɕe pjɤ-ra tɕe ʑ-lu-qre pjɤ-ra tɕe,</FORM>
+        <TRANSL xml:lang="fr">Le garçon devait aller auprès d'elle</TRANSL>
+    </S>
+    <S id="TARURNWSs86">
+        <AUDIO start="426.6903" end="433.9966"/>
+        <FORM kindOf="phono">tɕendɤre stu kɯ-wxti nɯ nɤkínɯ mbro chɯ-tsɯm tɕe nɯ sɯ-qre tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">il conduisait un cheval, et allait auprès de l'aînée.</TRANSL>
+    </S>
+    <S id="TARURNWSs87">
+        <AUDIO start="433.9966" end="436.5837"/>
+        <FORM kindOf="phono">ɯʑo nɯ tu-nɯmbrɤpɯ.</FORM>
+        <TRANSL xml:lang="fr">et elle montait à cheval.</TRANSL>
+    </S>
+    <S id="TARURNWSs88">
+        <AUDIO start="436.5956" end="445.7224"/>
+        <FORM kindOf="phono">iɕqha nɤki tɤ-ru ɯ-tɕɯ nɯnɯ kɯ ɯ-mbro tu-sɯ-mtshi pjɤ-ŋu, tɤ-nɯná-ndʑi tɕe kɤ-rɯndzɤtshi tɤ-mda tɕe,</FORM>
+        <TRANSL xml:lang="fr">et le fils du chef (dont nous avons parlé à l’instant) tenait le cheval à la bride. Lorsqu’arrivait le moment de se reposer et de prendre un repas.</TRANSL>
+    </S>
+    <S id="TARURNWSs89">
+        <AUDIO start="445.7224" end="455.6876"/>
+        <FORM kindOf="phono">nɤki tɕheme nɯ kɯ, ɯʑo kɯ, nɤki... tɤ-mthɯm nɤki... pɤlɤtɕɯ nɯ ra lonba ɯʑo tu-nɯ-ndze.</FORM>
+        <TRANSL xml:lang="fr">La fille mangeait toute la viande et tous les pains au beurre</TRANSL>
+    </S>
+    <S id="TARURNWSs90">
+        <AUDIO start="455.6876" end="459.4245"/>
+        <FORM kindOf="phono">ɯ-rkɯ nɯ ra ɲɯ́-wɣ-mbi, ɯ-rqhu... qɤjɣi ɯ-rqhu nɯ ra ɲɯ́-wɣ-mbi.</FORM>
+        <TRANSL xml:lang="fr">et lui donnait la peau et les morceaux (brûlés) de pain.</TRANSL>
+    </S>
+    <S id="TARURNWSs91">
+        <AUDIO start="459.4245" end="463.2333"/>
+        <FORM kindOf="phono">tɤ-mthɯm ta-ndza tɕe, ɯʑo kɯ ɕa tu-nɯ-ndze,</FORM>
+        <TRANSL xml:lang="fr">Quand elle mangeait la viande, elle mangeait la viande toute seule,</TRANSL>
+    </S>
+    <S id="TARURNWSs92">
+        <AUDIO start="463.2333" end="467.7847"/>
+        <FORM kindOf="phono">iɕqha tɤ-tɕɯ nɯnɯ ɕɤrɯ ɲɯ́-wɣ-mbi pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">et donnait les os au garçon (dont nous venons de parler).</TRANSL>
+    </S>
+    <S id="TARURNWSs93">
+        <AUDIO start="467.7847" end="472.5517"/>
+        <FORM kindOf="phono">tɕendɤre, nɯ tu-ste pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">Elle agissait de cette façon.</TRANSL>
+    </S>
+    <S id="TARURNWSs94">
+        <AUDIO start="472.5517" end="475.1388"/>
+        <FORM kindOf="phono">nɯ qhu tɕe li tɯ-lɤt nɯ lo-ɣi tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Ensuite, la cadette arriva.</TRANSL>
+    </S>
+    <S id="TARURNWSs95">
+        <AUDIO start="475.1388" end="479.0673"/>
+        <FORM kindOf="phono">nɤki "a-tɤ-ɕime, nɤʑo tɤ-nɯmbrɤpɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">(il dit :) « jeune fille, montez à cheval,</TRANSL>
+    </S>
+    <S id="TARURNWSs96">
+        <AUDIO start="479.0673" end="483.0917"/>
+        <FORM kindOf="phono">aʑo mbro tu-mtshi-a ma nɤ-pi kɯ nɯ tu-ste pɯ-ŋu" to-ti</FORM>
+        <TRANSL xml:lang="fr">je tiendrai le cheval à la bride. Votre grande soeur a agi de cette façon. »</TRANSL>
+    </S>
+    <S id="TARURNWSs97">
+        <AUDIO start="483.0917" end="485.4153"/>
+        <FORM kindOf="phono">"o! nɯ ʁo lɯski" to-ti tɕe,</FORM>
+        <TRANSL xml:lang="fr">« Oh, bien sûr », dit-elle.</TRANSL>
+    </S>
+    <S id="TARURNWSs98">
+        <AUDIO start="485.4153" end="491.4998"/>
+        <FORM kindOf="phono">tɯ-lɤt nɯ ɯʑo to-nɯmbrɤpɯ li tɤ-tɕɯ nɯ ɯ-mbro to-sɯ-mtshi.</FORM>
+        <TRANSL xml:lang="fr">Elle monta à cheval et le garçon tint la bride.</TRANSL>
+    </S>
+    <S id="TARURNWSs99">
+        <AUDIO start="491.4998" end="500.2194"/>
+        <FORM kindOf="phono">to-rɯndzɤtshí-ndʑi tɕe, li "nɤ-pi kɯ, aʑo nɤki, ɕɤrɯ cho nɯ ra qɤjɣi ɯ-rkɯ ra ɲɯ́-wɣ-mbi-a pɯ-ŋu" to-ti</FORM>
+        <TRANSL xml:lang="fr">il prirent un repas, et le garçon dit cette fois aussi : « votre grande soeur m’a donné les os et la croûte du pain »,</TRANSL>
+    </S>
+    <S id="TARURNWSs100">
+        <AUDIO start="500.2194" end="503.7168"/>
+        <FORM kindOf="phono">cha kɯ́nɤ ɯ-ʁɟo ra ɲó-wɣ-jtshi.</FORM>
+        <TRANSL xml:lang="fr">En ce qui concerne l’alcool, la grande soeur lui avait aussi donné seulement de l’alcool dilué (la narratrice rajoute un détail oublié).</TRANSL>
+    </S>
+    <S id="TARURNWSs101">
+        <AUDIO start="503.7168" end="506.3518"/>
+        <FORM kindOf="phono">"aʑo kɯ́nɤ ʁo lɯski ɕti" to-ti tɕɤn</FORM>
+        <TRANSL xml:lang="fr">« Pour moi, ce sera pareil, bien sûr », dit (la cadette).</TRANSL>
+    </S>
+    <S id="TARURNWSs102">
+        <AUDIO start="506.3518" end="513.1790"/>
+        <FORM kindOf="phono">nɤki, tɯ-ʁi nɯ kɯ li tɤ-mthɯm ɯʑo to-nɯ-ndza ɕɤrɯ ɲó-wɣ-mbi,</FORM>
+        <TRANSL xml:lang="fr">Ainsi, la cadette elle aussi mangea la viande pour elle et lui donna les os,</TRANSL>
+    </S>
+    <S id="TARURNWSs103">
+        <AUDIO start="513.1790" end="518.8802"/>
+        <FORM kindOf="phono">qɤjɣi nɯ ɯ-kɯ-mɯm nɯ ra ɯʑo to-nɯ-ndza, ɯ-rqhu ɯ-rkɯ nɯ ra tɤ-tɕɯ nɯ ɲó-wɣ-mbi.</FORM>
+        <TRANSL xml:lang="fr">Elle mangea elle-même les morceaux bons à manger, et donna au garçon les morceaux du bord et la croûte.</TRANSL>
+    </S>
+    <S id="TARURNWSs104">
+        <AUDIO start="518.8802" end="521.2278"/>
+        <FORM kindOf="phono">cha kɯ́nɤ ɯ-ʁɟo ɲó-wɣ-jtshi.</FORM>
+        <TRANSL xml:lang="fr">Comme alcool, elle lui donna aussi de l’alcool dilué.</TRANSL>
+    </S>
+    <S id="TARURNWSs105">
+        <AUDIO start="521.2278" end="523.6951"/>
+        <FORM kindOf="phono">tɕe nɯ ra tu-ste tɕe cho-nɯɕe.</FORM>
+        <TRANSL xml:lang="fr">Elle agit de cette façon et rentra chez elle.</TRANSL>
+    </S>
+    <S id="TARURNWSs106">
+        <AUDIO start="523.6951" end="529.1568"/>
+        <FORM kindOf="phono">ɯ-fso tɕe, tɕendɤre nɤki, nɯ-me stu kɯ-xtɕi nɯ ɯ-βra nɯ lo-ɣi,</FORM>
+        <TRANSL xml:lang="fr">Le lendemain ce fut le tour de la benjamine.</TRANSL>
+    </S>
+    <S id="TARURNWSs107">
+        <AUDIO start="529.1568" end="534.0915"/>
+        <FORM kindOf="phono">tɕendɤre tɤ-lu kɯ-ru lo-ɣi tɕe, tɤ-tɕɯ nɯ li mbro to-ndo tɕe,</FORM>
+        <TRANSL xml:lang="fr">Elle vint s’occuper du lait, et le garçon amena encore un cheval.</TRANSL>
+    </S>
+    <S id="TARURNWSs108">
+        <AUDIO start="534.0915" end="539.1220"/>
+        <FORM kindOf="phono">ɯ-kɯ-qru chɤ-ɕe tɕe "a-tɤ-ɕime, nɤ-pi nɯ kɯ nɯ tu-stú-ndʑi ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">Il descendit (des pâturages) pour aller à sa rencontre, et dit : « jeune fille, vos deux soeurs ont agi de cette façon,</TRANSL>
+    </S>
+    <S id="TARURNWSs109">
+        <AUDIO start="539.1220" end="542.4996"/>
+        <FORM kindOf="phono">nɤʑo tɤ-nɯmbrɤpɯ" tɕe, "aʑo nɤ-mbro tu-mtshi-a" to-ti.</FORM>
+        <TRANSL xml:lang="fr">Montez à cheval, je conduirai votre cheval »</TRANSL>
+    </S>
+    <S id="TARURNWSs110">
+        <AUDIO start="542.4996" end="544.7274"/>
+        <FORM kindOf="phono">tɕe, "a! tɕiʑo ʁnɯs ma maŋé-tɕi tɕe,</FORM>
+        <TRANSL xml:lang="fr">(Elle répondit :) « ah, il n’y a que nous deux ici,</TRANSL>
+    </S>
+    <S id="TARURNWSs111">
+        <AUDIO start="544.7274" end="547.1947"/>
+        <FORM kindOf="phono">ʑaka kɯ-nɯ-βzu mɤ-rtáʁ-tɕi", to-ti tɕe, ɯʑo to-nɯmbrɤpɯ,</FORM>
+        <TRANSL xml:lang="fr">nous sommes trop peu pour agir chacun dans notre coin. Elle monta à cheval,</TRANSL>
+    </S>
+    <S id="TARURNWSs112">
+        <AUDIO start="547.1947" end="550.7400"/>
+        <FORM kindOf="phono">ɯ-qhu zɯ tɤ-tɕɯ nɯ to-sɯ-ɣe tɕe,</FORM>
+        <TRANSL xml:lang="fr">puis elle fit monter le garçon à l’arrière.</TRANSL>
+    </S>
+    <S id="TARURNWSs113">
+        <AUDIO start="550.7400" end="557.1599"/>
+        <FORM kindOf="phono">ʁnaʁna to-nɯmbrɤpɯ́-ndʑi, kɤ-rɯndzɤtshi tɤ-mda tɕɤn, tɕheme-pɯ nɯ ɯ-ɕki</FORM>
+        <TRANSL xml:lang="fr">Ils montèrent tous deux à cheval, et lorsque le moment fut venu de prendre un repas, et il dit à la petite fille :</TRANSL>
+    </S>
+    <S id="TARURNWSs114">
+        <AUDIO start="557.1599" end="564.3942"/>
+        <FORM kindOf="phono">"aʑo ɕɤrɯ ɲɯ-kɯ-mbi-a, qɤjɣi nɯ ɯ-rqhu... ɯ-rkɯ cho ɯ-rqhu nɯ ra ɲɯ-kɯ-mbi-a,</FORM>
+        <TRANSL xml:lang="fr">« Vous pouvez me donner les os, me donner la croûte et le bord des pains,</TRANSL>
+    </S>
+    <S id="TARURNWSs115">
+        <AUDIO start="564.3942" end="570.2631"/>
+        <FORM kindOf="phono">cha ra ɯ-ʁɟo ɲɯ-kɯ-jtshi-a ma nɤ-pi ni kɯ tu-stú-ndʑi ɲɯ-ɕti" to-ti.</FORM>
+        <TRANSL xml:lang="fr">me donner de l’alcool dilué à boire car vos deux soeurs ont agi de la sorte. »</TRANSL>
+    </S>
+    <S id="TARURNWSs116">
+        <AUDIO start="570.2631" end="572.8502"/>
+        <FORM kindOf="phono">"a! nɯ ʁo tɕhi a-pɯ-ŋu, tɕiʑo ʁnɯs ma maŋé-tɕi tɕe,</FORM>
+        <TRANSL xml:lang="fr">« Ah ! comment cela serait-il convenable, nous ne sommes que deux,</TRANSL>
+    </S>
+    <S id="TARURNWSs117">
+        <AUDIO start="572.8502" end="575.7966"/>
+        <FORM kindOf="phono">ʑaka kɯ-nɯ-ndza mɤ-rtáʁ-tɕi" to-ti tɕe,</FORM>
+        <TRANSL xml:lang="fr">nous sommes trop peu nombreux pour manger chacun de notre côté », dit-elle</TRANSL>
+    </S>
+    <S id="TARURNWSs118">
+        <AUDIO start="575.7966" end="580.0845"/>
+        <FORM kindOf="phono">li tɤ-mthɯm nɯ kɯ-naχtɕɯɣ, qɤjɣi nɯ kɯ-naχtɕɯɣ,</FORM>
+        <TRANSL xml:lang="fr">et à nouveau, il prirent chacun la même quantité de viande, de pain,</TRANSL>
+    </S>
+    <S id="TARURNWSs119">
+        <AUDIO start="580.0845" end="582.4560"/>
+        <FORM kindOf="phono">cha nɯ kɯ-naχtɕɯɣ to-rɯndzɤtshí-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">et d’alcool (litt : « il prirent un repas, la viande pareille, le pain pareil, l’alcool pareil »).</TRANSL>
+    </S>
+    <S id="TARURNWSs120">
+        <AUDIO start="582.4560" end="588.1093"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ to-rɯndzɤtshí-ndʑi tɕe, nɤki,</FORM>
+        <TRANSL xml:lang="fr">ils prirent un repas, puis</TRANSL>
+    </S>
+    <S id="TARURNWSs121">
+        <AUDIO start="588.1093" end="594.4094"/>
+        <FORM kindOf="phono">"a-tɤ-ɕime, ci tɯ-mɯ ci ɲɯ-jɯm tɕe, ci kɤ-nɯ-rŋgɯ" to-ti,</FORM>
+        <TRANSL xml:lang="fr">(le garçon dit : ) « Il fait assez beau aujourd’hui, reposez-vous un peu. »</TRANSL>
+    </S>
+    <S id="TARURNWSs122">
+        <AUDIO start="594.4094" end="599.2004"/>
+        <FORM kindOf="phono">tɕendɤre tɤ-tɕɯ nɯ... tɕheme nɯ kɯ ko-nɯ-rŋgɯ tɕe tɕendɤre</FORM>
+        <TRANSL xml:lang="fr">puis la fille s’endormit,</TRANSL>
+    </S>
+    <S id="TARURNWSs123">
+        <AUDIO start="599.2004" end="610.1238"/>
+        <FORM kindOf="phono">tɤ-tɕɯ nɯ kɯ nɯ-mbro ɯ-rti kɯ-tu ci pjɤ-tu tɕendɤre ɕ-to-sɯ-rɟɯɣ tɕe ɯ-pɯ cho-sɯ-βde tɕendɤre ɯ-pɯ cho-sɯ-βde tɕe,</FORM>
+        <TRANSL xml:lang="fr">Ils avaient une jument enceinte, et le garçon la fit courrir, la fit avorter,</TRANSL>
+    </S>
+    <S id="TARURNWSs124">
+        <AUDIO start="610.1238" end="615.0585"/>
+        <FORM kindOf="phono">nɤki nɯ-mbro ɣɯ ɯ-pɯ nɯnɯ tɕheme nɯ ɣɯ ɯ-ŋga ɯ-pa nɯ tɕu lo-rku,</FORM>
+        <TRANSL xml:lang="fr">Il mit l’embryon du cheval au bas des habits de la petite fille,</TRANSL>
+    </S>
+    <S id="TARURNWSs125">
+        <AUDIO start="615.0585" end="619.8734"/>
+        <FORM kindOf="phono">tɕe ɯʑo kɯ mbro to-nɯmbrɤpɯ tɕe ruŋgu stu kɯ-mbro tɕu to-ɕe tɕe,</FORM>
+        <TRANSL xml:lang="fr">puis il alla à cheval vers le pâturage le plus haut de la montagne,</TRANSL>
+    </S>
+    <S id="TARURNWSs126">
+        <AUDIO start="619.8734" end="624.3050"/>
+        <FORM kindOf="phono">"qi! a-tɤ-ɕime nɤ-thi nɤ-jme nɯ tɕhi ɲɯ-ŋu?" to-ti,</FORM>
+        <TRANSL xml:lang="fr">et il dit : « Mademoiselle, qu’avez-vous donc sous vos jambes (litt : au bas de votre corps)? »</TRANSL>
+    </S>
+    <S id="TARURNWSs127">
+        <AUDIO start="624.3050" end="626.5807"/>
+        <FORM kindOf="phono">tɕe tɕheme nɯ cho-rɤru ri,</FORM>
+        <TRANSL xml:lang="fr">La fille se leva,</TRANSL>
+    </S>
+    <S id="TARURNWSs128">
+        <AUDIO start="626.5807" end="633.1204"/>
+        <FORM kindOf="phono">tɕe nɯ mbro ɯ-pɯ nɯnɯ ɯ-jme nɯ tɕu pjɤ-kɤ-tá-chɯ tɕe, ɯ-tɯ-nɤzraʁ, ɯ-tɯ-nɯzdɯɣ pjɤ-saχaʁ,</FORM>
+        <TRANSL xml:lang="fr">l’embryon de cheval se trouvait posé entre ses jambes, et elle eut extrêmement honte et devint très malheureuse.</TRANSL>
+    </S>
+    <S id="TARURNWSs129">
+        <AUDIO start="633.1204" end="638.2946"/>
+        <FORM kindOf="phono">tɕendɤre, nɤkínɯ ɲɤ-ɣɤwu tɕe, uɣma ɲɤ-nɯzdɯɣ tɕeri,</FORM>
+        <TRANSL xml:lang="fr">Elle se mit à pleurer, et devint très malheureuse, mais</TRANSL>
+    </S>
+    <S id="TARURNWSs130">
+        <AUDIO start="638.2946" end="645.7460"/>
+        <FORM kindOf="phono">"mɤ-nɯ-tɯ-nɯzdɯɣ tɕɤn a-mɤ-ɕ-tɤ-tɯ-nɤtɯt-... mɤ-ɕɯ-nɤtɯti-a tɕe, tɕeri smɯlɤm kɤ-nɯ-mɟa tɕe,</FORM>
+        <TRANSL xml:lang="fr">(le garçon dit : ) « Ne soyez pas malheureuse, je n’irai pas raconter ça partout, mais lorsque viendra (le verbe tɤ-mda est sous-entendu) le moment de célébrer la cérémonie de la fête de la grande prière (litt : ramasser la prière, car les garçons doivent ramasser un objet lancé par les filles),</TRANSL>
+    </S>
+    <S id="TARURNWSs131">
+        <AUDIO start="645.7460" end="655.1108"/>
+        <FORM kindOf="phono">aʑɯɣ a-ɣɯ-thɯ-tɯ-khɤm ra" to-ti, tɕendɤre nɤkínɯ, smɯlɤm nɤkínɯ, tɕe "jɤɣ" to-ti pjɤ-ra tɕe,</FORM>
+        <TRANSL xml:lang="fr">vous devrez m’apporter (le présent) » dit-il, et elle ne pouvait faire autrement que d’acquiescer.</TRANSL>
+    </S>
+    <S id="TARURNWSs132">
+        <AUDIO start="655.1108" end="659.0049"/>
+        <FORM kindOf="phono">tɕendɤre "smɯlɤm kɤ-nɯ-mɟa tɤ-mda tɕe, a-ɣɯ-lɤ-kɯ-sɯ-mtshám-a ma</FORM>
+        <TRANSL xml:lang="fr">« quand la fête de la grande prière arrivera, informez-moi,</TRANSL>
+    </S>
+    <S id="TARURNWSs133">
+        <AUDIO start="659.0049" end="661.9154"/>
+        <FORM kindOf="phono">aʑo ɣi-a ra" tɕe, "smɯlɤm nɯnɯ</FORM>
+        <TRANSL xml:lang="fr">car je viendrai sans aucun doute. "Pendant la fête de la prière,</TRANSL>
+    </S>
+    <S id="TARURNWSs134">
+        <AUDIO start="661.9154" end="668.3158"/>
+        <FORM kindOf="phono">tha nɤ-pi ni kɯ tha kɯ-kɯ-mɤɕi tɤ-tɕɯ kɯ-kɯ-ɣɯʁsrɯ ɣɯ ɕɯ-tá-ndʑi ri,</FORM>
+        <TRANSL xml:lang="fr">vos deux grandes soeurs donneront (leurs présents) à des garçons riches et beaux ;</TRANSL>
+    </S>
+    <S id="TARURNWSs135">
+        <AUDIO start="668.3158" end="674.0964"/>
+        <FORM kindOf="phono">nɤʑo aʑɯɣ a-ɣɯ-thɯ-tɯ-te ra" to-ti, tɕe tɕheme nɯ kɯ "ɣa" to-ti pjɤ-ra.</FORM>
+        <TRANSL xml:lang="fr">vous devrez me le donner », dit-il et elle n'eut d'autre solution que d'acquiescer.</TRANSL>
+    </S>
+    <S id="TARURNWSs136">
+        <AUDIO start="674.0964" end="680.7528"/>
+        <FORM kindOf="phono">tɕendɤre tɕɤthi kha uɣma ʑo kɯ-mɤɕi pjɤ-ɕtí-nɯ tɕe nɯnɯ,</FORM>
+        <TRANSL xml:lang="fr">Les (garçons) des maisons riches du bas de la vallée,</TRANSL>
+    </S>
+    <S id="TARURNWSs137">
+        <AUDIO start="680.7528" end="689.7807"/>
+        <FORM kindOf="phono">nɤki nɯ-smɯlɤm to-mda tɕe, nɯ-tɕu tɕɤn tɕendɤre, nɤki smɯlɤm to-mda tɕe,</FORM>
+        <TRANSL xml:lang="fr">lorsque vint leur tour (de trouver une épouse) à la fête de la grande prière, lorsqu'arriva la fête de la grande prière,</TRANSL>
+    </S>
+    <S id="TARURNWSs138">
+        <AUDIO start="689.7807" end="693.5805"/>
+        <FORM kindOf="phono">ɯʑo ʑ-lo-sɯ-mtshɤm tɕe, kɯ-rcɤ-mbɯ-mbe nɯ chɤ-ɕe tɕe</FORM>
+        <TRANSL xml:lang="fr">(la fille) l’en informa, et il descendit (des pâturages), habillé en haillons,</TRANSL>
+    </S>
+    <S id="TARURNWSs139">
+        <AUDIO start="693.5805" end="696.2484"/>
+        <FORM kindOf="phono">tɤ-rca zɯ pjɤ-kɤ-mdzɯ́t-chɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">et s’assit à la suite (des autres).</TRANSL>
+    </S>
+    <S id="TARURNWSs140">
+        <AUDIO start="696.2484" end="704.5083"/>
+        <FORM kindOf="phono">tɕe ɯ-pi ni kɯ rcá-nɯ maka tɤ-tɕɯ kɯ-kɯ-ɣɯʁsrɯ kɯ-kɯ-mɤɕi ɣɯ ʑo nɯ-smɯlɤm s-cho-tá-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">Les deux grandes soeurs offrirent l’une après l’autre des présents à des garçons beaux et riches,</TRANSL>
+    </S>
+    <S id="TARURNWSs141">
+        <AUDIO start="704.5083" end="709.2244"/>
+        <FORM kindOf="phono">tɤ-mu tɤ-wa ni uɣma pjɤ-rgá-ndʑi, tɕendɤre ɯʑɤɣ tɤ-mda tɕe,</FORM>
+        <TRANSL xml:lang="fr">(Leur) père et (leur) mère étaient très contents, et lorsque ce fut son tour à elle (la benjamine),</TRANSL>
+    </S>
+    <S id="TARURNWSs142">
+        <AUDIO start="709.2244" end="712.9973"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ cho-mɟa tɕe li,</FORM>
+        <TRANSL xml:lang="fr">elle amena (son présent),</TRANSL>
+    </S>
+    <S id="TARURNWSs143">
+        <AUDIO start="712.9973" end="718.9800"/>
+        <FORM kindOf="phono">nɯ ra stu kɯ-mna tɤ-tɕɯ kɯ-ɣɯ-ʁsrɯ cho kɯ-mɤɕi ra nɯ-ɕki ɕɯ-te pjo-ŋu ri,</FORM>
+        <TRANSL xml:lang="fr">et elle s’apprêtait à le donner à des garçons riches et beaux, les plus dignes (de le recevoir)</TRANSL>
+    </S>
+    <S id="TARURNWSs144">
+        <AUDIO start="718.9800" end="727.5228"/>
+        <FORM kindOf="phono">iɕqha [tɤ-] nɤki rcɤ-mbe-ŋga nɯ kɯ, nɤki, mbro-jme ɲo-sɤlwɤlwɤt tɕendɤre, mbro-jme ɲo-sɤlwɤlwɤt tɕe,</FORM>
+        <TRANSL xml:lang="fr">et le garçon, qui portait un habit usé, agita une queue de cheval (pour rappeler à la benjamine sa promesse).</TRANSL>
+    </S>
+    <S id="TARURNWSs145">
+        <AUDIO start="727.5228" end="730.9992"/>
+        <FORM kindOf="phono">to-ʁjit tɕe thɯ-kɯ-ndʐaβ to-ʑɣɤ-pa tɕɤn, ɯ-mbur tɕu s-chɤ-βde pjɤ-ra.</FORM>
+        <TRANSL xml:lang="fr">elle s’en souvint (de sa promesse) et fit semblant de trébucher, et jeta son cadeau sur le giron du garçon.</TRANSL>
+    </S>
+    <S id="TARURNWSs146">
+        <AUDIO start="730.9992" end="737.7230"/>
+        <FORM kindOf="phono">tɕendɤre cho-βde tɕɤn tɤ-ɣi{tɤ-ɣe} ra rcánɯ nɯ-mbrɯ ɯ-tɯ-ŋgɯ, nɯ-tɯ-nɯ-zdɯɣ pjɤ-saχaʁ ʑo</FORM>
+        <TRANSL xml:lang="fr">et ceux qui étaient venus en furent très fâché et très attristés.</TRANSL>
+    </S>
+    <S id="TARURNWSs147">
+        <AUDIO start="737.7230" end="743.3823"/>
+        <FORM kindOf="phono">tɕendɤre ɕu ɣɯ ɕ-thɯ-kɤ-ta nɯ ɣɯ nɯ, tɕe ɯ-ɕki ɕɯ-kɯ-mɤ-rʑaβ kɯ-ra pjɤ-ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">Il fallait se marier avec celui sur les genoux duquel on avait posé (une offrande)</TRANSL>
+    </S>
+    <S id="TARURNWSs148">
+        <AUDIO start="743.3823" end="749.7018"/>
+        <FORM kindOf="phono">tɕendɤre to-z-rɤŋgát-nɯ tɕɤn tɤ-pi ni ɣɯ rcánɯ mbro, jla, ɕkɤt</FORM>
+        <TRANSL xml:lang="fr">(Les gens de la famille du roi du bas de la vallée) préparèrent le départ (de leurs filles), et les deux grandes soeurs (et leurs serviteurs) chargèrent sur leurs chevaux et leurs yaks hybrides</TRANSL>
+    </S>
+    <S id="TARURNWSs149">
+        <AUDIO start="749.7018" end="754.2561"/>
+        <FORM kindOf="phono">rcánɯ tɯ-rɟɯ laχtɕha kɯ-dɯ-dɤn ʑo to-rkú-nɯ tɕe to-rɤŋgat,</FORM>
+        <TRANSL xml:lang="fr">de nombreux bagages et beaucoup de richesses, et elles partirent.</TRANSL>
+    </S>
+    <S id="TARURNWSs150">
+        <AUDIO start="754.2561" end="758.4601"/>
+        <FORM kindOf="phono">ʑɤni ndɤre [ɯʑo] nɯ-mbrɯ to-ŋgɯ ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">(Le garçon et la fille), en revanche, comme (les gens de la famille) étaient fâchés,</TRANSL>
+    </S>
+    <S id="TARURNWSs151">
+        <AUDIO start="758.4601" end="761.3032"/>
+        <FORM kindOf="phono">ɴɢarpa ci ma mɯ-to-z-rɤŋgát-nɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">(ceux-ci) ne préparèrent pour eux qu’un boeuf bâtard,</TRANSL>
+    </S>
+    <S id="TARURNWSs152">
+        <AUDIO start="761.3032" end="766.2618"/>
+        <FORM kindOf="phono">ɯ-ɕkɤt ɯ-phaʁ nɯ nɤki, thɤfka-lɤɣi to-rkú-nɯ</FORM>
+        <TRANSL xml:lang="fr">et chargèrent (pour tout bagage) une moitié de cendre (et une moitié de pierre).</TRANSL>
+    </S>
+    <S id="TARURNWSs153">
+        <AUDIO start="766.2618" end="770.7892"/>
+        <FORM kindOf="phono">tɕe ndʑi-ɕkɤt nɯ ɯ-mgo ɯ-tshɤt nɯ thɤfka-lɤɣi to-rkú-nɯ</FORM>
+        <TRANSL xml:lang="fr">A la place de nourriture, ils chargèrent de la cendre (pour le garçon et la benjamine).</TRANSL>
+    </S>
+    <S id="TARURNWSs154">
+        <AUDIO start="770.7892" end="777.0683"/>
+        <FORM kindOf="phono">ɯ-pi ni ɣɯ [nɯ-...nɯ-laχtɕha] nɤki, ɕɤmɯɣdɯ tɯ-kri mgo nɯ ra to-rkú-nɯ</FORM>
+        <TRANSL xml:lang="fr">Les gens chargèrent les objets : fusil, huile, nourriture pour les deux grandes soeurs de la benjamine,</TRANSL>
+    </S>
+    <S id="TARURNWSs155">
+        <AUDIO start="777.0683" end="781.0567"/>
+        <FORM kindOf="phono">ʑɤni ɣɯ nɯ ra kɯ-ra... kɯ-tu pjɤ-me tɕe, tɕe to-rɤŋgát-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">et comme eux deux n’avaient pas toutes ces choses, ils partirent (en premier).</TRANSL>
+    </S>
+    <S id="TARURNWSs156">
+        <AUDIO start="781.0567" end="785.5976"/>
+        <FORM kindOf="phono">tɤ-pi stu kɯ-wxti cho nɯ ɯ-pa nɯ ra cho ko-ɬóq-nɯ</FORM>
+        <TRANSL xml:lang="fr">(Puis) l’aînée et sa cadette se mirent en route.</TRANSL>
+    </S>
+    <S id="TARURNWSs157">
+        <AUDIO start="785.5976" end="794.1539"/>
+        <FORM kindOf="phono">tɕeri ku jo-ɕé-nɯ ri nɤki, tɤ-jpɣom pjɤ-tu, tɤ-jpɣom pjɤ-tu tɕe,</FORM>
+        <TRANSL xml:lang="fr">Ils allèrent vers l’est, et il y avait de la glace</TRANSL>
+    </S>
+    <S id="TARURNWSs158">
+        <AUDIO start="794.1539" end="797.5899"/>
+        <FORM kindOf="phono">tɕendɤre tɤ-jpɣom kɯ-saχaʁ ɯ-taʁ kɯ-ɬoʁ pjɤ-ra tɕe,</FORM>
+        <TRANSL xml:lang="fr">Il fallait traverser une grande étendue du glace.</TRANSL>
+    </S>
+    <S id="TARURNWSs159">
+        <AUDIO start="797.5899" end="800.9720"/>
+        <FORM kindOf="phono">tɯ-kri mgo ra nɤkínɯ [kolɤt] ko-lɤ́t-nɯ tɕɤn ko-ɕé-nɯ ri</FORM>
+        <TRANSL xml:lang="fr">(Les deux soeurs, leurs maris et leurs serviteurs) éparpillèrent la nourriture pour le voyage et l’huile (sur la glace) et continuèrent vers l’est,</TRANSL>
+    </S>
+    <S id="TARURNWSs160">
+        <AUDIO start="800.9720" end="809.2319"/>
+        <FORM kindOf="phono">nɯ-snama cho nɯ-tɯ-rme ra ɯ-qiɯ pjɤ-ndʐáβ-nɯ, ɯ-qiɯ ko-nɯɬóq-nɯ.</FORM>
+        <TRANSL xml:lang="fr">La moitié de leurs animaux et de leurs hommes tomba (et ils mourirent) et (seule) la moitié passa (indemme).</TRANSL>
+    </S>
+    <S id="TARURNWSs161">
+        <AUDIO start="809.2319" end="818.9336"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ, ko-nɯrɤtʂhá-nɯ tɕendɤre, nɯ-sqhi ra pjɤ-me,</FORM>
+        <TRANSL xml:lang="fr">Ensuite, ils préparèrent une collation, mais comme ils n’avaient pas de trépied,</TRANSL>
+    </S>
+    <S id="TARURNWSs162">
+        <AUDIO start="818.9336" end="823.2589"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ ʑɤni ko-mɤkú-ndʑi tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">(le garçon et la benjamine) étaient partis en avance (partie qui aurait dû se situer avant le récit du départ des deux grandes soeurs),</TRANSL>
+    </S>
+    <S id="TARURNWSs163">
+        <AUDIO start="823.2589" end="830.1982"/>
+        <FORM kindOf="phono">sqhi nɤkínɯ, nɯ-sqhi nɯ pjɤ-me tɕɤn, tɕe ndʑi-mthɯm ɣɯ ɯ-tshɤt nɯ</FORM>
+        <TRANSL xml:lang="fr">Comme ils n’avaient pas de tripode, à la place de leur viande (erreur dans la récit, on devrait avoir : à la place du tripode)</TRANSL>
+    </S>
+    <S id="TARURNWSs164">
+        <AUDIO start="830.1982" end="833.8363"/>
+        <FORM kindOf="phono">rdɤstaʁ to-rkú-nɯ ɕti tɕe, rdɤstaʁ kɯ sqhi ko-nɯ-βzú-nɯ,</FORM>
+        <TRANSL xml:lang="fr">ils placèrent des pierres pour former un tripode.</TRANSL>
+    </S>
+    <S id="TARURNWSs165">
+        <AUDIO start="833.8363" end="840.9508"/>
+        <FORM kindOf="phono">nɤkínɯ ndʑi-ɕɤmɯɣdɯ ɯ-tshɤt nɯ laʁjɯɣ to-rkú-nɯ ɕti qhe, nɯ ra pjɤ-chɤ́β-ndʑi qhe,</FORM>
+        <TRANSL xml:lang="fr">Comme à la place de leurs fusils, on avait chargé des bâtons (détail oublié dans le récit ci-dessus)</TRANSL>
+    </S>
+    <S id="TARURNWSs166">
+        <AUDIO start="840.9508" end="844.2385"/>
+        <FORM kindOf="phono">tʂha to-nɯ-βlɯ́-ndʑi qhe to-nɯ-rɯndzɤtshí-ndʑi, tɕe ko-nɯɬóʁ-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">ils firent chauffer leur thé (en utilisant les bâtons comme combustible), ils prirent leur repas, et s’en allèrent</TRANSL>
+    </S>
+    <S id="TARURNWSs167">
+        <AUDIO start="844.2385" end="847.9709"/>
+        <FORM kindOf="phono">tɕe "tɕhi, tɕhi tɤ-tɯ-fsé-ndʑi tɕe, kɤ-tɯ-ɬóʁ-ndʑi" to-tí-nɯ ri,</FORM>
+        <TRANSL xml:lang="fr">« Par quel moyen êtes vous passés ? » demandèrent (les grandes soeurs, leurs maris et leurs serviteurs).</TRANSL>
+    </S>
+    <S id="TARURNWSs168">
+        <AUDIO start="847.9709" end="852.4579"/>
+        <FORM kindOf="phono">"tɕiʑo ndɤre tɕi-laχtɕha ri tɤ-kɤ-rku maŋe ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">« Comme nous n’avions aucun objet à mettre (dans le foyer)</TRANSL>
+    </S>
+    <S id="TARURNWSs169">
+        <AUDIO start="852.4579" end="854.8159"/>
+        <FORM kindOf="phono">sqhi ɯ-tshɤt nɯ tɕi-χpɯm tɯ-ka"</FORM>
+        <TRANSL xml:lang="fr">à la place d’un tripode, nous avons (mis) nos genoux. »</TRANSL>
+    </S>
+    <S id="TARURNWSs170">
+        <AUDIO start="854.8159" end="860.4752"/>
+        <FORM kindOf="phono">tɤ-tɕɯ nɯ kɯ "aʑo tɤ-tɕɯ ɲɯ-ŋu-a tɕe, a-χpɯm ʁnɯs nɯ kɤ-tá-t-a,</FORM>
+        <TRANSL xml:lang="fr">Le garçon dit : « comme je suis un garçon, j’ai mis mes deux genoux,</TRANSL>
+    </S>
+    <S id="TARURNWSs171">
+        <AUDIO start="860.4752" end="863.7765"/>
+        <FORM kindOf="phono">a-zda tɕheme ɕti tɕe, ɯ-χpɯm ɯ-ntsi nɯ ka-ta tɕe,</FORM>
+        <TRANSL xml:lang="fr">Comme ma compagne est une fille, elle a mis un genou,</TRANSL>
+    </S>
+    <S id="TARURNWSs172">
+        <AUDIO start="863.7765" end="870.9854"/>
+        <FORM kindOf="phono">tɕe [tɤ-] tɤ-βlɯ́-tɕi tɕe tɕi-ɕɤmɯɣdɯ ra thɯ-nɯ-βlɯ́-tɕi tɕe, tɤ-nɯ-rɯndzɤtshí-tɕi." to-ti,</FORM>
+        <TRANSL xml:lang="fr">(Les deux soeurs) firent brûler leurs fusils et prirent un repas.</TRANSL>
+    </S>
+    <S id="TARURNWSs173">
+        <AUDIO start="870.9854" end="872.6023"/>
+        <FORM kindOf="phono">tɕe nɯ ra to-stú-nɯ ri,</FORM>
+        <TRANSL xml:lang="fr">Ils (les grandes soeurs et leur suite) agirent de cette manière.</TRANSL>
+    </S>
+    <S id="TARURNWSs174">
+        <AUDIO start="872.6023" end="878.5849"/>
+        <FORM kindOf="phono">ndɤre smi tu-tɯ-nɯ-βze pjɤ-sɤɕkeʑo, tɯ-ka nɯ-χpɯm jo-nɯrɤɕí-nɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Aussitôt que le feu fut allumé, c’était brûlant et chacun retira ses genoux.</TRANSL>
+    </S>
+    <S id="TARURNWSs175">
+        <AUDIO start="878.6792" end="880.6061"/>
+        <FORM kindOf="phono">kɤ-nɯrɤtʂha ra mɯ-pjɤ-ŋgrɯ ɲɯ-ŋu,</FORM>
+        <TRANSL xml:lang="fr">Ils ne réussirent pas du tout à prendre le thé.</TRANSL>
+    </S>
+    <S id="TARURNWSs176">
+        <AUDIO start="880.6061" end="886.5079"/>
+        <FORM kindOf="phono">tɕendɤre, li jo-ɕé-ndʑi tɕɤn nɤkínɯ, jo-ɕé-nɯ jo-ɕé-ndʑi tɕe</FORM>
+        <TRANSL xml:lang="fr">Alors (le garçon et la fille) continuèrent leur chemin,</TRANSL>
+    </S>
+    <S id="TARURNWSs177">
+        <AUDIO start="886.5079" end="893.9459"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ ɯ-pi nɯ ra nɯ kɯ-fse jo-nɯɬóʁ-nɯ.</FORM>
+        <TRANSL xml:lang="fr">et les deux soeurs aînées s’en allèrent de cette façon.</TRANSL>
+    </S>
+    <S id="TARURNWSs178">
+        <AUDIO start="893.9459" end="900.3867"/>
+        <FORM kindOf="phono">ʑɤni li jo-ɕé-ndʑi tɕe, tɕendɤre jla... mbro jla kɯ-saχaʁ stomku kɯ-jɯ-jom tɕe</FORM>
+        <TRANSL xml:lang="fr">Ils continuèrent encore leur chemin, et ils trouvèrent une plaine très large,</TRANSL>
+    </S>
+    <S id="TARURNWSs179">
+        <AUDIO start="900.3867" end="903.0411"/>
+        <FORM kindOf="phono">mbro jla kɯ-saχaʁ ɲo-k-ɤtɯ́ɣ-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">où se trouvaient plein de chevaux et de yaks hybrides.</TRANSL>
+    </S>
+    <S id="TARURNWSs180">
+        <AUDIO start="903.0411" end="908.8890"/>
+        <FORM kindOf="phono">tɕe tɕheme nɯ kɯ "χawo kɯ ra tɕiʑɤɣ a-pɯ-ŋú-nɯ kɯ-ɣe" to-ti,</FORM>
+        <TRANSL xml:lang="fr">La fille dit « Si seulement tout cela pouvait être à nous ! »</TRANSL>
+    </S>
+    <S id="TARURNWSs181">
+        <AUDIO start="908.8890" end="913.8341"/>
+        <FORM kindOf="phono">tɕeri tɤ-tɕɯ nɯ kɯ "nɯ-βde wo tɕiʑɤɣ ɯ́-mɯ-pjɤ-ŋu smɯlɤm nɯ" to-ti</FORM>
+        <TRANSL xml:lang="fr">Le garçon dit : « Ne t'occupes pas de cela, qui sait, (ces choses) sont peut-être à nous. »</TRANSL>
+    </S>
+    <S id="TARURNWSs182">
+        <AUDIO start="913.8341" end="917.4587"/>
+        <FORM kindOf="phono">tɕe lo-ɕé-ndʑi nɤ lo-ɕé-ndʑi, lo-ɕé-ndʑi nɤ lo-ɕé-ndʑi tɕe</FORM>
+        <TRANSL xml:lang="fr">Puis ils continuèrent leur chemin,</TRANSL>
+    </S>
+    <S id="TARURNWSs183">
+        <AUDIO start="917.4587" end="923.9938"/>
+        <FORM kindOf="phono">nɯtɕu tɕe rcánɯ li maka tɤ-rɤku kɯ-pɯ-pe rcánɯ tɯ-ji kɯ-jɯ-jom ɲɤ-ɤtɯ́ɣ-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">Et là, ils trouvèrent, des champs très larges aux récoltes très bonnes.</TRANSL>
+    </S>
+    <S id="TARURNWSs184">
+        <AUDIO start="923.9938" end="929.1950"/>
+        <FORM kindOf="phono">tɕendɤre, tɕheme nɯ kɯ "χawo kɯkɯ ra tɕiʑɤɣ mɤ-nɯ-ŋu kɯ-ɣe" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Puis la fille dit : « Ah, si ces choses étaient à nous ! »</TRANSL>
+    </S>
+    <S id="TARURNWSs185">
+        <AUDIO start="929.1950" end="933.3317"/>
+        <FORM kindOf="phono">tɤ-tɕɯ nɯ kɯ "nɯ-βde wo, tɕiʑɤɣ ɯ́-mɤ-pjɤ-ŋu smɯlɤm nɯ" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Le garçon dit : « Ne t'occupes pas de cela, qui sait, (ces choses) sont peut-être à nous. »</TRANSL>
+    </S>
+    <S id="TARURNWSs186">
+        <AUDIO start="933.3317" end="937.0910"/>
+        <FORM kindOf="phono">tɕendɤre li lo-ɕé-ndʑi nɤ lo-ɕé-ndʑi tɕe</FORM>
+        <TRANSL xml:lang="fr">Puis ils continuèrent leur chemin,</TRANSL>
+    </S>
+    <S id="TARURNWSs187">
+        <AUDIO start="937.0910" end="942.6560"/>
+        <FORM kindOf="phono">tɕɤlo rcánɯ maka kha kɯ-ɣɯʁsɯ-ʁsrɯ χsɤrɯ kɯ-saχaʁ ʑo ɲo-tɯ́ɣ-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">En amont, ils virent une belle maison avec beaucoup d’or,</TRANSL>
+    </S>
+    <S id="TARURNWSs188">
+        <AUDIO start="942.6560" end="946.8735"/>
+        <FORM kindOf="phono">"χawo! ki ɕu ɣɯ ku-nɯ-ŋu kɯ-ɣe? ɯ-tɯ-pe nɯ" to-ti ri,</FORM>
+        <TRANSL xml:lang="fr">(La fille) dit : « Oh à qui cela peut-il bien appartenir ? Comme c’est bien ! »</TRANSL>
+    </S>
+    <S id="TARURNWSs189">
+        <AUDIO start="946.8735" end="950.3634"/>
+        <FORM kindOf="phono">tɤ-tɕɯ nɯ kɯ "nɯ-βde wo, tɕiʑɤɣ ɯ́-mɤ-pjɤ-ŋu smɯlɤm nɯ" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Le garçon dit : « Ne t'en occupes pas, qui sait, (ces choses) sont peut-être à nous. »</TRANSL>
+    </S>
+    <S id="TARURNWSs190">
+        <AUDIO start="950.3634" end="954.4192"/>
+        <FORM kindOf="phono">tɕendɤre lo-ɕé-ndʑi nɤ lo-ɕé-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">Puis ils continuèrent leur chemin,</TRANSL>
+    </S>
+    <S id="TARURNWSs191">
+        <AUDIO start="954.4192" end="958.0034"/>
+        <FORM kindOf="phono">tɕe tɤ-tɕɯ nɯ kɯ "kɯtɕu kɤ-rɤʑi je tɕe,</FORM>
+        <TRANSL xml:lang="fr">Puis le garçon dit : « Reste ici,</TRANSL>
+    </S>
+    <S id="TARURNWSs192">
+        <AUDIO start="958.0034" end="961.7762"/>
+        <FORM kindOf="phono">aʑo ci lu-mɤku-a nɤ" to-ti tɕe,</FORM>
+        <TRANSL xml:lang="fr">je vais d’abord y aller en premier ».</TRANSL>
+    </S>
+    <S id="TARURNWSs193">
+        <AUDIO start="961.7762" end="964.2555"/>
+        <FORM kindOf="phono">tɕheme nɯ kɯ "ɣa" to-ti tɕe pjɤ-rɤʑi.</FORM>
+        <TRANSL xml:lang="fr">La fille dit oui et resta là où elle était.</TRANSL>
+    </S>
+    <S id="TARURNWSs194">
+        <AUDIO start="964.2555" end="968.5134"/>
+        <FORM kindOf="phono">toʁde tɕe, rcánɯ kɯ-sa-qru kɯ-saχaʁ ʑo jo-ɣí-nɯ,</FORM>
+        <TRANSL xml:lang="fr">Un moment après,  des (serviteurs) virent en très grand nombre à sa rencontre.</TRANSL>
+    </S>
+    <S id="TARURNWSs195">
+        <AUDIO start="968.5134" end="974.7656"/>
+        <FORM kindOf="phono">mbro to-ndó-nɯ, tɯ-rme to-ndó-nɯ, thɤjco ra ɲɤ-sprɤ́t-nɯ</FORM>
+        <TRANSL xml:lang="fr">(Dans le cortège venu pour l’accueillir, il y avait) des chevaux et des hommes, et ils avaient préparé des palanquins.</TRANSL>
+    </S>
+    <S id="TARURNWSs196">
+        <AUDIO start="974.7656" end="981.1660"/>
+        <FORM kindOf="phono">tɕendɤre tɕheme nɯ ɕki "a-tɤ-ɕime ɯ-pɯ́-ɤɴqa nɤ, a-tɤ-ɕime ɯ-pɯ́-ɤɴqa" to-tí-nɯ</FORM>
+        <TRANSL xml:lang="fr">Ils dirent à la jeune fille : « Mademoiselle, vous devez être fatiguée ».</TRANSL>
+    </S>
+    <S id="TARURNWSs197">
+        <AUDIO start="981.1660" end="986.5558"/>
+        <FORM kindOf="phono">tɕendɤre maka, tɕheme nɯ maka mɯ-ɲo-stu ri, mɯ-to-khɯ́-nɯ,</FORM>
+        <TRANSL xml:lang="fr">La fille ne croyait pas (ce qui lui arrivait) ; elle n’était pas d’accord (de les suivre)</TRANSL>
+    </S>
+    <S id="TARURNWSs198">
+        <AUDIO start="986.5558" end="993.0775"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ "rŋɯl... χsɤr thɤjco taʁ tɯ-nɯɕe ɕi,</FORM>
+        <TRANSL xml:lang="fr">et (les serviteurs) dirent : « Monterez-vous dans le palanquin d’or,</TRANSL>
+    </S>
+    <S id="TARURNWSs199">
+        <AUDIO start="993.0775" end="997.8744"/>
+        <FORM kindOf="phono">rŋɯl thɤjco taʁ tɯ-nɯɕe ɕi, si thɤjco taʁ tɯ-nɯɕe?" to-tí-nɯ.</FORM>
+        <TRANSL xml:lang="fr">le palanquin d’argent ou le palanquin de bois ?</TRANSL>
+    </S>
+    <S id="TARURNWSs200">
+        <AUDIO start="997.8744" end="1002.2266"/>
+        <FORM kindOf="phono">tɕeri tɕheme nɯ kɯ "awo, aʑo a-rŋɯ-rŋɯl a-χsɤ-χsɤr ra mɤ-ra nɤ,</FORM>
+        <TRANSL xml:lang="fr">La fille dit « Oh, je n’ai pas besoin de cet or et de cet argent,</TRANSL>
+    </S>
+    <S id="TARURNWSs201">
+        <AUDIO start="1002.2266" end="1005.3527"/>
+        <FORM kindOf="phono">si thɤjco taʁ tu-ɕe-a jɤɣ" to-ti.</FORM>
+        <TRANSL xml:lang="fr">j’irai dans le palanquin de bois. »</TRANSL>
+    </S>
+    <S id="TARURNWSs202">
+        <AUDIO start="1005.3527" end="1008.2632"/>
+        <FORM kindOf="phono">tɕeri, rŋɯl thɤjco taʁ tó-wɣ-sɯxɕe,</FORM>
+        <TRANSL xml:lang="fr">mais ils la firent monter dans le palanquin d’argent (le palanquin d’or étant réservé au roi)</TRANSL>
+    </S>
+    <S id="TARURNWSs203">
+        <AUDIO start="1008.2632" end="1012.8580"/>
+        <FORM kindOf="phono">tɕendɤre nɯ kɯ-fse jó-wɣ-tsɯm, tɕe jɤ-azɣɯ́t-nɯ tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Et ils l’emportèrent de cette façon, et lorsqu’ils arrivèrent (au palais),</TRANSL>
+    </S>
+    <S id="TARURNWSs204">
+        <AUDIO start="1012.8580" end="1019.4200"/>
+        <FORM kindOf="phono">"a-tɤ-ɕime nɤʑo nɤki, χsɤr rɟɤskɤt taʁ tɯ-nɯɕe ɕi?</FORM>
+        <TRANSL xml:lang="fr">(les serviteurs dirent : ) « Mademoiselle, irez-vous sur l’escalier d’or,</TRANSL>
+    </S>
+    <S id="TARURNWSs205">
+        <AUDIO start="1019.4200" end="1024.3651"/>
+        <FORM kindOf="phono">rŋɯl rɟɤskɤt taʁ tɯ-nɯɕe ɕi? si rɟɤskɤt taʁ tɯ-nɯɕe?" to-tí-nɯ.</FORM>
+        <TRANSL xml:lang="fr">sur l’escalier d’argent ou sur l’escalier de bois ? »</TRANSL>
+    </S>
+    <S id="TARURNWSs206">
+        <AUDIO start="1024.3651" end="1030.2400"/>
+        <FORM kindOf="phono">"wo aʑo a-rŋɯrŋɯl a-χsɤχsɤr ra mɤ-fɕɤt kɯ si rɟɤskɤt tu-nɯɕi-a jɤɣ!" to-ti,</FORM>
+        <TRANSL xml:lang="fr">(Elle) dit : « Oh, comme il ne convient pas que j’aille sur les (escaliers) d’argent et d’or, j’irai sur l’escalier de bois ! »</TRANSL>
+    </S>
+    <S id="TARURNWSs207">
+        <AUDIO start="1030.2400" end="1034.9830"/>
+        <FORM kindOf="phono">tɕeri mɯ-to-khɯ́-nɯ tɕe rŋɯl rɟɤskɤt taʁ tó-wɣ-sɯɣ-ɕe, tɕendɤre</FORM>
+        <TRANSL xml:lang="fr">mais (les serviteurs) n’étaient pas d’accord et la firent monter par l’escalier en argent.</TRANSL>
+    </S>
+    <S id="TARURNWSs208">
+        <AUDIO start="1034.9830" end="1039.2140"/>
+        <FORM kindOf="phono">li nɤkínɯ nɯ-kha tɤ-azɣɯ́t-nɯ tɕe, tɕendɤre</FORM>
+        <TRANSL xml:lang="fr">Une fois arrivés dans la maison,</TRANSL>
+    </S>
+    <S id="TARURNWSs209">
+        <AUDIO start="1039.2140" end="1043.5932"/>
+        <FORM kindOf="phono">"a-tɤ-ɕime, nɤʑo χsɤr rɟɤskɤt... χsɤr khri taʁ tɯ-nɯɕe ɕi?</FORM>
+        <TRANSL xml:lang="fr">ils dirent : « Mademoiselle, irez-vous sur le trône d’or,</TRANSL>
+    </S>
+    <S id="TARURNWSs210">
+        <AUDIO start="1043.5932" end="1049.1312"/>
+        <FORM kindOf="phono">rŋɯl khri taʁ tɯ-nɯɕe ɕi? si khri taʁ tɯ-nɯɕe?" to-tí-nɯ</FORM>
+        <TRANSL xml:lang="fr">sur le trône d’argent ou sur le trône de bois ? »</TRANSL>
+    </S>
+    <S id="TARURNWSs211">
+        <AUDIO start="1049.1312" end="1053.7664"/>
+        <FORM kindOf="phono">"aʑo a-rŋɯl a-χsɤr ra ma-fɕɤt tɕe, si khri taʁ tu-nɯɕi-a jɤɣ!" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Elle dit : « Il ne convient pas que j’aille sur les trônes en argent ou en or, j’irai donc sur le trône en bois. »</TRANSL>
+    </S>
+    <S id="TARURNWSs212">
+        <AUDIO start="1053.7664" end="1058.2669"/>
+        <FORM kindOf="phono">tɕeri rŋɯl khri taʁ tó-wɣ-sɯxɕe, tɕe nɯtɕu ko-nɯ-mdzɯ pjɤ-ŋu tɕe,</FORM>
+        <TRANSL xml:lang="fr">Mais ils la firent aller sur le trône d’argent, et elle s’assit là.</TRANSL>
+    </S>
+    <S id="TARURNWSs213">
+        <AUDIO start="1058.2669" end="1065.7992"/>
+        <FORM kindOf="phono">ɯ-tɯ-nɯzdɯɣ pjɤ-saχaʁ tɕe, tɕénɤ, "a-χti nɯ ŋotɕu jɤ-nɯri kɯ-ma?</FORM>
+        <TRANSL xml:lang="fr">Elle était très malheureuse, et se demandait « où est donc passé mon mari ?</TRANSL>
+    </S>
+    <S id="TARURNWSs214">
+        <AUDIO start="1065.7992" end="1071.8088"/>
+        <FORM kindOf="phono">kɤ-mto maŋe tɕe, pɯ́-wɣ-sat ɯβrɤŋuma?" to-ʁjit pjɤ-ŋu, tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">On ne le voit pas, ne serait-ce pas qu’ils l’ont tué ? »,</TRANSL>
+    </S>
+    <S id="TARURNWSs215">
+        <AUDIO start="1071.8088" end="1073.6683"/>
+        <FORM kindOf="phono">uɣma ʑo chɯ-nɯzdɯɣ pjo-ŋu tɕe,</FORM>
+        <TRANSL xml:lang="fr">Elle était très triste.</TRANSL>
+    </S>
+    <S id="TARURNWSs216">
+        <AUDIO start="1073.6683" end="1079.0581"/>
+        <FORM kindOf="phono">ɯ-qom ci pjɤ-ɕlɯɣ, tɕe "u! a-tɤ-ɕime, tɕhi ku-tɯ-ɣɤwu" to-ti ri</FORM>
+        <TRANSL xml:lang="fr">Elle laissa couler une larme, (et un serviteur demanda : ) « Mademoiselle, pourquoi pleurez-vous ? »</TRANSL>
+    </S>
+    <S id="TARURNWSs217">
+        <AUDIO start="1079.0581" end="1081.4566"/>
+        <FORM kindOf="phono">"mɤ-kɯ-pe ɣɤʑu ɯβrɤŋu?" to-ti ri,</FORM>
+        <TRANSL xml:lang="fr">« Y-aurait-il quelquechose qui ne vous convient pas ? »</TRANSL>
+    </S>
+    <S id="TARURNWSs218">
+        <AUDIO start="1081.4566" end="1090.4307"/>
+        <FORM kindOf="phono">"maʁjári nɤkínɯ, ɲɯ-ɣɤkhɯ tɕe núɣndʐa ɕti" to-ti, tɕendɤre nɤkínɯ,</FORM>
+        <TRANSL xml:lang="fr">Elle dit : « Non, c’est à cause de la fumée. » (elle croit que ce sont les serviteurs qui ont tué son mari et ne veut pas dévoiler ses sentiments)</TRANSL>
+    </S>
+    <S id="TARURNWSs219">
+        <AUDIO start="1090.4307" end="1095.7261"/>
+        <FORM kindOf="phono">kɯ-maqhu tɕe li ɲɯ-nɯzdɯɣ ɯ-sɯmpa tɕu ɲɯ-nɯzdɯɣ pjɤ-ŋu ri, nɤkínɯ</FORM>
+        <TRANSL xml:lang="fr">Ensuite, elle était toujours triste,</TRANSL>
+    </S>
+    <S id="TARURNWSs220">
+        <AUDIO start="1095.7261" end="1100.9946"/>
+        <FORM kindOf="phono">kɯm ci to-cɯ́-nɯ ri, kɯ-maqhu nɯtɕu iɕqha khɯ-ndʐi-rcu nɯ pjɤ-ɴqoʁ.</FORM>
+        <TRANSL xml:lang="fr">Ils ouvrirent une porte, et ensuite, à cet endroit, l’habit en peau de chien (dont nous parlions à l’instant) était accroché.</TRANSL>
+    </S>
+    <S id="TARURNWSs221">
+        <AUDIO start="1100.9946" end="1104.5249"/>
+        <FORM kindOf="phono">tɕendɤre "pɯ́-wɣ-sat ɯ-βrɤŋuma" ɲɯ-ʁjit tɕe, ɲɯ-nɯzdɯɣ pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">Elle pensa : « Ne serait-ce donc pas qu’ils l’ont tué ? », et elle en fut malheureuse.</TRANSL>
+    </S>
+    <S id="TARURNWSs222">
+        <AUDIO start="1104.5249" end="1111.2217"/>
+        <FORM kindOf="phono">tɕeri, li nɤkínɯ, to-thú-nɯ ri, li "maʁ ɲɯ-ɣɤkhɯ ndʐa ɕti" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Ils lui demandèrent encore, et elle dit à nouveau : « Non, c’est à cause de la fumée (que je tousse). »</TRANSL>
+    </S>
+    <S id="TARURNWSs223">
+        <AUDIO start="1111.2217" end="1114.7116"/>
+        <FORM kindOf="phono">tɕe kɯ-maqhu tɕɤn qale ci jo-ɣi tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Ensuite, un vent souffla</TRANSL>
+    </S>
+    <S id="TARURNWSs224">
+        <AUDIO start="1114.7116" end="1118.4440"/>
+        <FORM kindOf="phono">ndʑi-thɤβ nɯ jɤlwa pjɤ-ŋu tɕe, jɤlwa nɯ ci to-pɣaʁ rin,</FORM>
+        <TRANSL xml:lang="fr">Entre eux (la fille et le garçon), il y avait un rideau, et ce rideau se retourna</TRANSL>
+    </S>
+    <S id="TARURNWSs225">
+        <AUDIO start="1118.4440" end="1121.8665"/>
+        <FORM kindOf="phono">ɯ-rkɯ nɯ tɕu tɤ-tɕɯ kɯ-ɣɤχsɯ-χsɯrɯ ʑo ci pjɤ-kɤ-nɯ-mdzɯ́-chɯ,</FORM>
+        <TRANSL xml:lang="fr">De l’autre côté, un garçon très beau était assis,</TRANSL>
+    </S>
+    <S id="TARURNWSs226">
+        <AUDIO start="1121.8665" end="1124.6153"/>
+        <FORM kindOf="phono">χsɤr khri taʁ nɯ-tɕu pjɤ-kɤ-nɯ-mdzɯ́-chɯ,</FORM>
+        <TRANSL xml:lang="fr">Il était assis sur un trône d’or,</TRANSL>
+    </S>
+    <S id="TARURNWSs227">
+        <AUDIO start="1124.6153" end="1132.8887"/>
+        <FORM kindOf="phono">tɕendɤre ɯ-re ci ɕmɯɣ ɲo-ɕlɯɣ, "a-tɤ-ɕime, tɕhi ku-tɯ-nɤre?" to-tí-nɯ tɕeri</FORM>
+        <TRANSL xml:lang="fr">Elle lâcha un petit rire et ils demandèrent : « Mademoiselle, pourquoi riez-vous ? »</TRANSL>
+    </S>
+    <S id="TARURNWSs228">
+        <AUDIO start="1132.8887" end="1138.4941"/>
+        <FORM kindOf="phono">"tɕɤthi khɯɣŋɟɯ zɯ mɯrmɯmbju ʁnɯs nɤki, pɣɤtɕɯ ʁnɯs ɲɤ-nɯɣró-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">Dehors, sur la fenêtre, deux hirondelles, deux moineaux étaient en train de jouer ensemble,</TRANSL>
+    </S>
+    <S id="TARURNWSs229">
+        <AUDIO start="1138.4941" end="1140.7578"/>
+        <FORM kindOf="phono">nɯ ɲɯ-nɤre-a ɕti wo" to-ti.</FORM>
+        <TRANSL xml:lang="fr">voilà pourquoi j’ai ri.</TRANSL>
+    </S>
+    <S id="TARURNWSs230">
+        <AUDIO start="1140.7578" end="1147.0908"/>
+        <FORM kindOf="phono">tɕendɤre nɯ kɯ-fse, pjɤ-rɤʑí-nɯ tɕe, tɕeri kɯ-maqhu tɕe, tɕe nɤki,</FORM>
+        <TRANSL xml:lang="fr">Ils restèrent ainsi, puis</TRANSL>
+    </S>
+    <S id="TARURNWSs231">
+        <AUDIO start="1147.0908" end="1157.3314"/>
+        <FORM kindOf="phono">iɕqha nɯnɯ ɯ-ɣɯ-jɤ-kɯ-qru tɤ-tɕɯ nɯnɯ stɤt tɯ-phu koŋ-βzaŋ-jaŋ-rtɤn-bu ɣɯ ɯ-tɕɯ nɯ</FORM>
+        <TRANSL xml:lang="fr">Le garçon (dont nous avions parlé plus haut), qui était venu la chercher, le fils de Kun-bzang-yang-bstan-po du haut de la vallée,</TRANSL>
+    </S>
+    <S id="TARURNWSs232">
+        <AUDIO start="1157.3314" end="1161.3872"/>
+        <FORM kindOf="phono">ɯ-rʑaβ kɯ-ɕar jo-ɕe tɕe, ɯʑo ɣɯ-jó-wɣ-nɯ-qru pjɤ-ɕti tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">il était allé chercher une épouse, et l’avait ramenée.</TRANSL>
+    </S>
+    <S id="TARURNWSs233">
+        <AUDIO start="1161.3872" end="1167.2890"/>
+        <FORM kindOf="phono">tɕe, nɯ-tɯ-mɤɕi pjɤ-saχaʁ tɕe, nɯ-tɯ-rma ɯ-tɯ-khɯ pjɤ-saχaʁ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Ils étaient très riches, et leur vie était très agréable,</TRANSL>
+    </S>
+    <S id="TARURNWSs234">
+        <AUDIO start="1167.2890" end="1175.5624"/>
+        <FORM kindOf="phono">tɯ-rma tɯ-βlɯ chɤ-nɤsɤɲcɣɤɲcɣɤ́t-nɯ</FORM>
+        <TRANSL xml:lang="fr">« Le feu dans leur vie était de plus en plus brûlant » = ils furent heureux et eurent beaucoup d’enfants.</TRANSL>
+    </S>
+    <S id="TARURNWSs235">
+        <AUDIO start="1175.5758" end="1187.5411"/>
+        <FORM kindOf="phono">nɤrwa kɯ-lɤɣ ló-wɣ-sɯxɕe tɕɤn, stu kɯ-maku tɕɤn, nɤki "a-ftsoʁ stu kɯ-wxti nɯ-ɬoʁ tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">On l’envoya faire paître le bétail dans le pâturage, et (il dit à) l’aînée : « Ma femelle de yak hybride aînée a mis bas,</TRANSL>
+    </S>
+    <S id="TARURNWSs236">
+        <AUDIO start="1187.5411" end="1192.2841"/>
+        <FORM kindOf="phono">a-tɤ-ɕime stu kɯ-wxti a-lɤ-ɣi ɲɤ-ra" to-ti, tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">mademoiselle l’aînée, venez s’il vous plaît ! »</TRANSL>
+    </S>
+    <S id="TARURNWSs237">
+        <AUDIO start="1192.2841" end="1198.0242"/>
+        <FORM kindOf="phono">tɤ-ɕime stu kɯ-wxti nɯ lo-ɣi nɯ ɯ-qhu tɕe, nɤki</FORM>
+        <TRANSL xml:lang="fr">La jeune fille aînée vint et après,</TRANSL>
+    </S>
+    <S id="TARURNWSs238">
+        <AUDIO start="1198.0242" end="1203.1714"/>
+        <FORM kindOf="phono">"a-tɤ-ɕime, tɯ-lɤt nɯ a-lɤ-ɣi ma a-ftsoʁ tɯ-lɤt nɯ nɯ-ɬoʁ" to-ti,</FORM>
+        <TRANSL xml:lang="fr">Il dit : « Mademoiselle la cadette, venez car ma femelle de yak hybride cadette a mis bas,</TRANSL>
+    </S>
+    <S id="TARURNWSs239">
+        <AUDIO start="1203.1714" end="1208.0761"/>
+        <FORM kindOf="phono">tɕendɤre, tɤ-ɕime tɯ-lɤt nɯ lo-ɣi kɯ-maqhu tɕe,</FORM>
+        <TRANSL xml:lang="fr">et la fille cadette vint, et ensuite,</TRANSL>
+    </S>
+    <S id="TARURNWSs240">
+        <AUDIO start="1208.0761" end="1211.9567"/>
+        <FORM kindOf="phono">línɤ ki "a-tɤ-ɕime stu kɯ-xtɕi nɯ</FORM>
+        <TRANSL xml:lang="fr">Il dit encore : « Mademoiselle la benjamine,</TRANSL>
+    </S>
+    <S id="TARURNWSs241">
+        <AUDIO start="1211.9567" end="1214.4360"/>
+        <FORM kindOf="phono">a-lɤ-ɣi ma a-ftsoʁ stu kɯ-xtɕi nɯ nɯ-ɬoʁ" to-ti</FORM>
+        <TRANSL xml:lang="fr">venez car ma femelle de yak hybride la plus petite vient de mettre bas. »</TRANSL>
+    </S>
+    <S id="TARURNWSs242">
+        <AUDIO start="1214.4360" end="1218.7209"/>
+        <FORM kindOf="phono">tɕendɤre, nɯ ra ci mphru ci ʑo lo-sɯ-ɣe.</FORM>
+        <TRANSL xml:lang="fr">Ainsi, il les fit venir l’une après l’autre (sur le pâturage)</TRANSL>
+    </S>
+    <S id="TARURNWSs243">
+        <AUDIO start="1218.7209" end="1229.2579"/>
+        <FORM kindOf="phono">tɕe kɤ-rɯndzɤtshi to-mda tɕe, nɤki, ku-rɯndzɤtshí-ndʑi pjɤ-ŋu tɕe,</FORM>
+        <TRANSL xml:lang="fr">et lorsqu'arriva le moment de manger, alors qu'ils mangeaient,</TRANSL>
+    </S>
+    <S id="TARURNWSs244">
+        <AUDIO start="1229.2579" end="1233.5697"/>
+        <FORM kindOf="phono">tɤ-ɕime nɯ kɯ mtɕhot to-βde, tɕe mtɕhot to-βde tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">la jeune fille fit une libation,</TRANSL>
+    </S>
+    <S id="TARURNWSs245">
+        <AUDIO start="1233.5697" end="1237.5581"/>
+        <FORM kindOf="phono">tɕeri mtɕhot nɯnɯ tɤ-tɕɯ nɯ ɣɯ ɯ-rqo ŋgɯ cho-ɕe tɕe,</FORM>
+        <TRANSL xml:lang="fr">mais cette libation arriva dans la gorge du garçon,</TRANSL>
+    </S>
+    <S id="TARURNWSs246">
+        <AUDIO start="1237.5581" end="1240.9537"/>
+        <FORM kindOf="phono">"u! a-tɤ-ɕime, tɕhi tú-wɣ-pa ma, nɤki,</FORM>
+        <TRANSL xml:lang="fr">oh, jeune fille, comment est-ce possible,</TRANSL>
+    </S>
+    <S id="TARURNWSs247">
+        <AUDIO start="1240.9537" end="1243.8911"/>
+        <FORM kindOf="phono">nɤ-mtɕhot ŋgɯ a-rqo ŋgɯ thɯ-ari" to-ti,</FORM>
+        <TRANSL xml:lang="fr">ta libation est arrivée dans ma gorge</TRANSL>
+    </S>
+    <S id="TARURNWSs248">
+        <AUDIO start="1243.8911" end="1245.5619"/>
+        <FORM kindOf="phono">tɕeri "lɤ-tɕɤt ma mɤ-jɤɣ ma</FORM>
+        <TRANSL xml:lang="fr">(elle dit) : "il faut absolument l'en retirer</TRANSL>
+    </S>
+    <S id="TARURNWSs249">
+        <AUDIO start="1245.5619" end="1248.0142"/>
+        <FORM kindOf="phono">nɤʑo a-mtɕhot ɯ-kɯ-ndza mɤ-tɯ-sna!" to-ti,</FORM>
+        <TRANSL xml:lang="fr">tu n'es pas digne de manger ma libation !</TRANSL>
+    </S>
+    <S id="TARURNWSs250">
+        <AUDIO start="1248.0142" end="1249.9006"/>
+        <FORM kindOf="phono">tɕe lo-tɕɤt pjɤ-ra,</FORM>
+        <TRANSL xml:lang="fr">il se dut de la retirer</TRANSL>
+    </S>
+    <S id="TARURNWSs251">
+        <AUDIO start="1249.9075" end="1256.6179"/>
+        <FORM kindOf="phono">tɕendɤre tɤ-ɕime tɯ-lɤt nɯnɯ kɯ́nɤ línɤ kɯ-wxti nɯ kɯ tɯ-ta-stu nɯ tu-ste pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">La jeune fille cadette agit en tout point de façon identique à l'ainée</TRANSL>
+    </S>
+    <S id="TARURNWSs252">
+        <AUDIO start="1256.6179" end="1262.3849"/>
+        <FORM kindOf="phono">tɕendɤre, stu kɯ-xtɕi nɯ kɯ mtɕhot ta-βde tɕe, tɕendɤre</FORM>
+        <TRANSL xml:lang="fr">ensuite, la plus petite fit une libation,</TRANSL>
+    </S>
+    <S id="TARURNWSs253">
+        <AUDIO start="1262.3849" end="1264.7834"/>
+        <FORM kindOf="phono">li "a-rqo ŋgɯ thɯ-ari, tɕhi tɯ́-wɣ-pa ma</FORM>
+        <TRANSL xml:lang="fr">oh, jeune fille, que fais-tu donc,</TRANSL>
+    </S>
+    <S id="TARURNWSs254">
+        <AUDIO start="1264.7834" end="1267.8556"/>
+        <FORM kindOf="phono">nɤ-pi ni kɯ nɯ ló-wɣ-sɯ-tɕát-a-ndʑi ɕti nɤ" to-ti ɲɯ-ŋu,</FORM>
+        <TRANSL xml:lang="fr">tes deux grandes soeurs me les ont fait retirer (de ma gorge)</TRANSL>
+    </S>
+    <S id="TARURNWSs255">
+        <AUDIO start="1267.8556" end="1270.7459"/>
+        <FORM kindOf="phono">stu kɯ-xtɕi nɯ kɯ "wo! nɯ thɯci ra ndʐa ɕti kɯ,</FORM>
+        <TRANSL xml:lang="fr">la plus petite dit : "ces choses-là devaient probablement se produire,</TRANSL>
+    </S>
+    <S id="TARURNWSs256">
+        <AUDIO start="1270.7459" end="1273.7776"/>
+        <FORM kindOf="phono">a-pɯ-nɯ-fse tɤ-nɯ-ndze" to-ti tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">puisque c'est comme cela, mange"</TRANSL>
+    </S>
+    <S id="TARURNWSs257">
+        <FORM kindOf="phono">stu kɯ-xtɕi ɣɯ ɯ-mtɕhot nɯ cho-mqlaʁ.</FORM>
+        <TRANSL xml:lang="fr">Il avala donc la libation de la plus petite</TRANSL>
+        <AUDIO start="1273.7776" end="1276.4038"/>
+    </S>
+</TEXT>

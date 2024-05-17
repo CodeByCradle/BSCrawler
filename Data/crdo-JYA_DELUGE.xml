@@ -1,0 +1,4240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT xml:lang="jya" id="crdo-JYA_DELUGE">
+    <HEADER>
+        <TITLE>le déluge</TITLE>
+        <SOUNDFILE href="DELUGE.wav"/>
+    </HEADER>
+    <S id="DELUGEs1">
+        <AUDIO start="0.3803" end="6.2755"/>
+        <FORM kindOf="phono">kɯɕɯŋgɯ kɯɕɯŋgɯ tɕe, tɤtɕɯ kɤndʑɯxtɤɣ χsɯm pjɤ-tú-nɯ, tɕendɤre nɤkínɯ,</FORM>
+        <TRANSL xml:lang="fr">Il y a longtemps, il y avait trois frères,</TRANSL>
+        <W>
+            <FORM kindOf="phono">kɯɕɯŋgɯ</FORM>
+            <TRANSL xml:lang="fr">autrefois</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯɕɯŋgɯ</FORM>
+            <TRANSL xml:lang="fr">autrefois</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤndʑɯxtɤɣ</FORM>
+            <TRANSL xml:lang="fr">frères\coll</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">χsɯm</FORM>
+            <TRANSL xml:lang="fr">trois</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-tú-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-avoir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs2">
+        <AUDIO start="6.3706" end="14.6429"/>
+        <FORM kindOf="phono">ɲɯ-sɤŋó-nɯ tɕe, nɤkínɯ, tɯrme ra kɯ "skalpa ndʑɯɣ ɲɯ-ŋu" to-tí-nɯ</FORM>
+        <TRANSL xml:lang="fr">Ils avaient entendu des gens dire que le monde allait être détruit</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɲɯ-sɤŋó-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-entendre-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rme</FORM>
+            <TRANSL xml:lang="fr">\neu-homme</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">skalpa</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ndʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">\npst:détruire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs3">
+        <AUDIO start="14.2625" end="20.7282"/>
+        <FORM kindOf="phono">tɕe skalpa ɲɯ-kɯ-ndʑɯɣ nɯnɯ tɕe, sɤtɕha nɯ nɤkínɯ,</FORM>
+        <TRANSL xml:lang="fr">Le monde allait être détruit</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">skalpa</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-kɯ-ndʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">\ipf-\nmls:S-détruire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">terre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs4">
+        <AUDIO start="20.3479" end="25.1972"/>
+        <FORM kindOf="phono">pɕo... nɤki, soʁʑi lonba nɯnɯ tɯci tu-mtshɤt tɕe, ɲɯ-ɲɟɯr tɕe, tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">La terre entière allait être remplie d'eau, et allait changer</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">soʁʑi</FORM>
+            <TRANSL xml:lang="fr">terre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lonba</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-mtshɤt</FORM>
+            <TRANSL xml:lang="fr">\ipf-remplir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɲɟɯr</FORM>
+            <TRANSL xml:lang="fr">\ipf-changer.intr</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs5">
+        <AUDIO start="25.0070" end="29.0956"/>
+        <FORM kindOf="phono">tɯrme lonba ʑo chɯ-ɤrɕo tɕe, ɲɯ-nɤsci ku-ŋgrɤl ɲɯ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">Les hommes allaient disparaître complètement, et un changement se produirait,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɯ-rme</FORM>
+            <TRANSL xml:lang="fr">\neu-homme</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lonba</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɯ-ɤrɕo</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_fini</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-nɤsci</FORM>
+            <TRANSL xml:lang="fr">\ipf-échanger</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ku-ŋgrɤl</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_la_règle</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\ipf-être</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs6">
+        <AUDIO start="28.8103" end="37.6531"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ, nɯ-nɯŋa tɯ-rdoʁ pjɤ-tu, tɕendɤre "nɯ ntɕha-j je" to-k-ɤmɯtí-nɯ-chɯ,</FORM>
+        <TRANSL xml:lang="fr">Ils avaient une vache, et décidèrent de la tuer (litt. : ils discutèrent et convinrent "tuons-la")</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ-nɯŋa</FORM>
+            <TRANSL xml:lang="fr">3\pl-vache</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rdoʁ</FORM>
+            <TRANSL xml:lang="fr">un-morceau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-tu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntɕha-j</FORM>
+            <TRANSL xml:lang="fr">\npst:tuer-1\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">je</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-k-ɤmɯtí-nɯ-chɯ</FORM>
+            <TRANSL xml:lang="fr">\med-k-discuter-\pl-\med</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs7">
+        <AUDIO start="37.3679" end="46.3057"/>
+        <FORM kindOf="phono">tɕendɤre "ɣa" to-tí-nɯ tɕe, stu kɯ-wxti nɯ kɯ "aʑɯɣ, nɤki, ɯ-ku nɯ ma mɤ-ra" to-ti.</FORM>
+        <TRANSL xml:lang="fr">(ils dirent "oui") et le plus grand dit "Il ne me faut que sa tête".</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣa</FORM>
+            <TRANSL xml:lang="fr">oui</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL>\med-dire-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-wxti</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-grand</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">aʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">1\sg.\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɤ-ra</FORM>
+            <TRANSL xml:lang="fr">\negat-\npst:devoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs8">
+        <AUDIO start="46.0205" end="51.5353"/>
+        <FORM kindOf="phono">ɯ-pa nɯ, nɤki, tɤtɕɯ nɯ, stu kɯ-wxti ɣɯ ɯ-pa nɯ kɯ,</FORM>
+        <TRANSL xml:lang="fr">le puîné dit :</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯ-pa</FORM>
+            <TRANSL xml:lang="fr">3\sg-deuxième_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-wxti</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-grand</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-pa</FORM>
+            <TRANSL xml:lang="fr">3\sg-deuxième_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs9">
+        <AUDIO start="51.3451" end="59.5224"/>
+        <FORM kindOf="phono">"aʑɯɣ, nɤki, nɯŋa ɣɯ ɯ-ɕa thamtɕɤt nɯ cho ɯ-ɕɤrɯ nɯ ma mɤ-ra" to-ti, tɕendɤre nɤkínɯ,</FORM>
+        <TRANSL xml:lang="fr">"Il ne me faut que sa viande et ses os",</TRANSL>
+        <W>
+            <FORM kindOf="phono">aʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">1\sg.\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯŋa</FORM>
+            <TRANSL xml:lang="fr">vache</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ɕa</FORM>
+            <TRANSL xml:lang="fr">3\sg-viande</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">thamtɕɤt</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">cho</FORM>
+            <TRANSL xml:lang="fr">et</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ɕɤrɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-os</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɤ-ra</FORM>
+            <TRANSL xml:lang="fr">\negat-\npst:devoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs10">
+        <AUDIO start="59.5224" end="69.6963"/>
+        <FORM kindOf="phono">stu kɯ-xtɕi nɯ kɯ tɕe, "aʑɯɣ, nɤki, ɯ-ndʐi nɯ chondɤre ɯ-mar tɯ-tɯ-ɣɟaβ nɯ ma mɤ-ra" to-ti</FORM>
+        <TRANSL xml:lang="fr">Le plus petit dit : "Il ne me faut que sa peau et son beurre baratté" (litt. : le contenu d'une barattage de beurre)</TRANSL>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">aʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">1\sg.\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chondɤre</FORM>
+            <TRANSL xml:lang="fr">et</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-mar</FORM>
+            <TRANSL xml:lang="fr">3\sg-beurre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-tɯɣɟaβ</FORM>
+            <TRANSL xml:lang="fr">un-barratage</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɤ-ra</FORM>
+            <TRANSL xml:lang="fr">\negat-\npst:devoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs11">
+        <AUDIO start="69.5061" end="77.9686"/>
+        <FORM kindOf="phono">tɕendɤre tɤpi stu kɯ-wxti nɯ kɯ nɯŋa ɣɯ ɯ-ku nɯ to-nɯ-ndza qhe ʑaʑa cho-k-ɤrɕó-chɯ,</FORM>
+        <TRANSL xml:lang="fr">Son grand frère mangea la tête de la vache et il ne resta plus rien.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-pi</FORM>
+            <TRANSL xml:lang="fr">\neu-grand_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-wxti</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-grand</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯŋa</FORM>
+            <TRANSL xml:lang="fr">vache</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-nɯ-ndza</FORM>
+            <TRANSL xml:lang="fr">\med-\auto-manger</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑaʑa</FORM>
+            <TRANSL xml:lang="fr">tôt</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">cho-k-ɤrɕó-chɯ</FORM>
+            <TRANSL xml:lang="fr">\med-k-être_fini-\med</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs12">
+        <AUDIO start="77.7624" end="83.9132"/>
+        <FORM kindOf="phono">nɯ ɯ-pa nɯ kɯ ɯ-ɕa nɯ to-ndza ɯ-ɕɤrɯ nɯ ko-nɯ-sqa qhe,</FORM>
+        <TRANSL xml:lang="fr">Le second mangea la viande, et fit bouillir les os,</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-pa</FORM>
+            <TRANSL xml:lang="fr">3\sg-deuxième_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ɕa</FORM>
+            <TRANSL xml:lang="fr">3\sg-viande</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ndza</FORM>
+            <TRANSL xml:lang="fr">\med-manger</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ɕɤrɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-os</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-nɯ-sqa</FORM>
+            <TRANSL xml:lang="fr">\med-\auto-cuire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs13">
+        <AUDIO start="83.7527" end="89.2616"/>
+        <FORM kindOf="phono">ɯ-ci nɯ ko-tshi qhe, tɕendɤre ʑaʑa cho-k-ɤrɕó-chɯ.</FORM>
+        <TRANSL xml:lang="fr">Il but le jus et il ne resta plus rien (litt. : ce fut rapidement fini)</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯ-ci</FORM>
+            <TRANSL xml:lang="fr">3\sg-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-tshi</FORM>
+            <TRANSL xml:lang="fr">\med-boire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑaʑa</FORM>
+            <TRANSL xml:lang="fr">tôt</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">cho-k-ɤrɕó-chɯ</FORM>
+            <TRANSL xml:lang="fr">\med-k-être_fini-\med</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs14">
+        <AUDIO start="89.1012" end="95.5193"/>
+        <FORM kindOf="phono">tɕendɤre "tɯ-sŋi tɕendɤre, skalpa ɲɯ-ndʑɯɣ tɕe, skalpa ɲɯ-ndʑɯɣ" to-tí-nɯ rcánɯ,</FORM>
+        <TRANSL xml:lang="fr">Les gens disaient : "Un jour, le monde va être détruit, le monde va être détruit",</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-sŋi</FORM>
+            <TRANSL xml:lang="fr">un-jour</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">skalpa</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ndʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_détruit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">skalpa</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ndʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_détruit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">rcánɯ</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs15">
+        <AUDIO start="95.4124" end="99.5841"/>
+        <FORM kindOf="phono">tɕendɤre tɯ... tɯci, sɤtɕha thamtɕɤt ʑo tɯci to-mtshɤt ɕti tɕe</FORM>
+        <TRANSL xml:lang="fr">Puis la terre fut entièrement remplie d'eau.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">thamtɕɤt</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-mtshɤt</FORM>
+            <TRANSL xml:lang="fr">\med-remplir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɕti</FORM>
+            <TRANSL xml:lang="fr">\npst:être.affirmation</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs16">
+        <AUDIO start="99.5307" end="105.9488"/>
+        <FORM kindOf="phono">tɕendɤre ɯ-ʁi nɯ kɯ nɯŋa ɯ-ndʐi nɯnɯ lonba ʑo chɤ-rɤɣdɯt, chɤ-tʂɯβ,</FORM>
+        <TRANSL xml:lang="fr">Le petit frère avait fait gonfler la peau de la vache, l'avait cousue,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ʁi</FORM>
+            <TRANSL xml:lang="fr">3\sg-petit_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯŋa</FORM>
+            <TRANSL xml:lang="fr">vache</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lonba</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-rɤɣdɯt</FORM>
+            <TRANSL xml:lang="fr">\med-gonfler</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-tʂɯβ</FORM>
+            <TRANSL xml:lang="fr">\med-coudre</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs17">
+        <AUDIO start="106.5906" end="110.3880"/>
+        <FORM kindOf="phono">tɕe chɤ-tʂɯβ tɕe, tɕendɤre nɯnɯ ɯ-ŋgɯ nɯ tɕu ɯʑo to-ʑɣɤ-rku,</FORM>
+        <TRANSL xml:lang="fr">et s'était mis dedans.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-tʂɯβ</FORM>
+            <TRANSL xml:lang="fr">\med-coudre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ʑɣɤ-rku</FORM>
+            <TRANSL xml:lang="fr">\med-\refl-placer</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs18">
+        <AUDIO start="110.2276" end="112.5274"/>
+        <FORM kindOf="phono">ta-mar tɯ-tɯɣɟaβ nɯ to-ndo.</FORM>
+        <TRANSL xml:lang="fr">Il avait avec lui le beurre baratté.</TRANSL>
+        <W>
+            <FORM kindOf="phono">ta-mar</FORM>
+            <TRANSL xml:lang="fr">\neu-beurre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-tɯɣɟaβ</FORM>
+            <TRANSL xml:lang="fr">un-barratage</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ndo</FORM>
+            <TRANSL xml:lang="fr">\med-prendre</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs19">
+        <AUDIO start="112.4411" end="114.8880"/>
+        <FORM kindOf="phono">tɕendɤre skalpa nɯ-ndʑɯɣ nɯ tɕu tɕe,</FORM>
+        <TRANSL xml:lang="fr">Au moment où le monde allait être détruit,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">skalpa</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ-ndʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">\aor-être_détruit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs20">
+        <AUDIO start="114.5270" end="117.9768"/>
+        <FORM kindOf="phono">tɯci nɯ sɤtɕha lonba ʑo to-mtshɤt pjɤ-ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">L'eau remplit la terre entière</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lonba</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-mtshɤt</FORM>
+            <TRANSL xml:lang="fr">\med-remplir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ɕti</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être.affirmation</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs21">
+        <AUDIO start="118.2175" end="120.3034"/>
+        <FORM kindOf="phono">tɕe nɯ ɯ-ŋgɯ nɯ tɕu ɯʑo ko-ʑɣɤ-rku tɕe,</FORM>
+        <TRANSL xml:lang="fr">Il se mit à l'intérieur (de la peau de vache)</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-ʑɣɤ-rku</FORM>
+            <TRANSL xml:lang="fr">\med:\est-\refl-placer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs22">
+        <AUDIO start="120.0627" end="124.0740"/>
+        <FORM kindOf="phono">tɕendɤre tɯci kɯ-xtɕɯ-xtɕi kɤ-ɣe tɕe, iɕqha ka-tʂɯβ ɣɯ ɯ-srɯβ nɯ tɕu</FORM>
+        <TRANSL xml:lang="fr">et aux coutures, partout où l'eau rentrait un peu,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤ-ɣe</FORM>
+            <TRANSL xml:lang="fr">\aor:\est-venir[2]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">iɕqha</FORM>
+            <TRANSL xml:lang="fr">à_l'instant</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ka-tʂɯβ</FORM>
+            <TRANSL xml:lang="fr">\aor.3&gt;3-coudre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-srɯβ</FORM>
+            <TRANSL xml:lang="fr">3\sg-interstice</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs23">
+        <AUDIO start="123.9537" end="128.7673"/>
+        <FORM kindOf="phono">ta-mar ci ntsɯ ɲɤ-ɲɟoʁ, tɕendɤre nɯ ɲɤ-ɲɟoʁ tɕe,</FORM>
+        <TRANSL xml:lang="fr">il collait un peu de beurre</TRANSL>
+        <W>
+            <FORM kindOf="phono">ta-mar</FORM>
+            <TRANSL xml:lang="fr">\neu-beurre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-ɲɟoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-coller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-ɲɟoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-coller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs24">
+        <AUDIO start="128.6469" end="131.7758"/>
+        <FORM kindOf="phono">tɯci nɯ kɯ taʁ-nɤ-taʁ taʁ-nɤ-taʁ ʑo tó-wɣ-tsɯm</FORM>
+        <TRANSL xml:lang="fr">l'eau l'emporta de plus en plus haut,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">taʁ-nɤ-taʁ</FORM>
+            <TRANSL xml:lang="fr">haut-et-haut</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">taʁ-nɤ-taʁ</FORM>
+            <TRANSL xml:lang="fr">haut-et-haut</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tó-wɣ-tsɯm</FORM>
+            <TRANSL xml:lang="fr">\med-\inv-emporter</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs25">
+        <AUDIO start="132.1368" end="140.0391"/>
+        <FORM kindOf="phono">tɕendɤre kɯ-máqhu tɯci nɯ ma tu-kɯ-wxti ɲɤ-me ʑo tɕe, tɕendɤre ko-rɤʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">à la fin, l'eau ne monta plus, et resta au même niveau,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-maqhu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-kɯ-wxti</FORM>
+            <TRANSL xml:lang="fr">\ipf-\nmls:\stat-grand</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-rɤʑi</FORM>
+            <TRANSL xml:lang="fr">\med-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs26">
+        <AUDIO start="140.6111" end="144.9032"/>
+        <FORM kindOf="phono">tɕendɤre ta-ʁi nɯnɯ ɯ-ŋgɯ tɕu pjɤ-rɤʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">Le petit frère restait dedans,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ta-ʁi</FORM>
+            <TRANSL xml:lang="fr">\neu-petit_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-rɤʑi</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs27">
+        <AUDIO start="145.0637" end="149.7168"/>
+        <FORM kindOf="phono">ta-mar na-ɲɟoʁ ɣɯ ɯ-ro nɯ ra to-ndza tɕɤn, mɯ-pjɤ-si.</FORM>
+        <TRANSL xml:lang="fr">et se nourrit du reste de beurre dont il ne s'était pas servi pour (boucher les trous) et ne mourrut donc pas.</TRANSL>
+        <W>
+            <FORM kindOf="phono">ta-mar</FORM>
+            <TRANSL xml:lang="fr">\neu-beurre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">na-ɲɟoʁ</FORM>
+            <TRANSL xml:lang="fr">\aor.3&gt;3-coller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ro</FORM>
+            <TRANSL xml:lang="fr">3\sg-reste</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ndza</FORM>
+            <TRANSL xml:lang="fr">\med-manger</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕɤn</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɯ-pjɤ-si</FORM>
+            <TRANSL xml:lang="fr">\negat-\med-mourir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs28">
+        <AUDIO start="149.7970" end="153.3671"/>
+        <FORM kindOf="phono">ɯ-pi nɯnɯ ndɤre tɕe tɕhi pɯ-nɯfse kɯma,</FORM>
+        <TRANSL xml:lang="fr">Quant aux deux grands frères, ce qui leur était arrivé,</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯ-pi</FORM>
+            <TRANSL xml:lang="fr">3\sg-grand_frère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ndɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL>\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕhi</FORM>
+            <TRANSL xml:lang="fr">quoi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-nɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\pst\ipf-\auto-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯma</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs29">
+        <AUDIO start="153.2869" end="156.4157"/>
+        <FORM kindOf="phono">tɕendɤre tɯci ŋgɯ pjɤ-ɕqhlɤ́t-ndʑi rcáma kɯ-tu ɲɤ-mé-ndʑi.</FORM>
+        <TRANSL xml:lang="fr">ils avaient sombré dans l'eau et avaient disparu.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ɕqhlɤ́t-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-sombrer-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">rcáma</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-tu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-mé-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-ne_pas_avoir-\du</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs30">
+        <AUDIO start="156.8169" end="162.5130"/>
+        <FORM kindOf="phono">tɕe ɯʑo ndɤre zgo kɯ-mbɯ-mbro, kɯ-mbɯ-mbro ʑo ɯ-ku ʑo tɕendɤre ɲo-ɣɤntaβ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Il se posa sur le sommet d'une montagne très haute.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ndɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">zgo</FORM>
+            <TRANSL xml:lang="fr">montagne</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-mbɯ-mbro</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-haut</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-mbɯ-mbro</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-haut</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲo-ɣɤntaβ</FORM>
+            <TRANSL xml:lang="fr">\med-poser</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs31">
+        <AUDIO start="162.9943" end="169.1718"/>
+        <FORM kindOf="phono">tɕe nɯ tɕu tɕendɤre nɯŋa-ndʐi nɯ pjɤ-qraʁ tɕe ɲɤ-nɯɬoʁ, tɕe ɲɤ-nɯɬoʁ ri,</FORM>
+        <TRANSL xml:lang="fr">Il déchira la peau de vache et sortit</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL>cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯŋa-ndʐi</FORM>
+            <TRANSL xml:lang="fr">peau_de_vache</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-qraʁ</FORM>
+            <TRANSL xml:lang="fr">\med-déchirer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-sortir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-sortir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs32">
+        <AUDIO start="169.0515" end="173.4238"/>
+        <FORM kindOf="phono">sɤtɕha thamtɕɤt tɯci pɯ-kɯ-schɤt nɯ kɯ-ɤʁɟɤlɯle ʑo ma nɯ ma</FORM>
+        <TRANSL xml:lang="fr">La terre entière, dont l'eau s'était retirée, était toute nue,</TRANSL>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">thamtɕɤt</FORM>
+            <TRANSL xml:lang="fr">tout</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ci</FORM>
+            <TRANSL xml:lang="fr">\neu-eau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-kɯ-schɤt</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:S-se_retirer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-ɤʁɟɤlɯle</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-chauve</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs33">
+        <AUDIO start="173.3035" end="177.9566"/>
+        <FORM kindOf="phono">tɕe, tɯrme ri ɯʑo ma kɯ-tu ɲɤ-me, nɯ ma ɯ-rkɯ-rkɯ rcánɯ,</FORM>
+        <TRANSL xml:lang="fr">Il n'y avait plus d'hommes, et tout autour de lui,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rme</FORM>
+            <TRANSL xml:lang="fr">\neu-homme</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM>kɯ-tu</FORM>
+            <TRANSL>\nmls:\stat-avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rkɯ-rkɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-\redp-bord</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">rcánɯ</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs34">
+        <AUDIO start="177.2777" end="184.8290"/>
+        <FORM kindOf="phono">rɯdaʁ, fsapaʁ tɕi pjɤ-me, pɣa tɕi ɲo-me, qajɯ tɕi ɲo-me.</FORM>
+        <TRANSL xml:lang="fr">ni d'animaux sauvages, ni de bétail, ni d'oiseaux, ni d'insectes,</TRANSL>
+        <W>
+            <FORM kindOf="phono">rɯdaʁ</FORM>
+            <TRANSL xml:lang="fr">bête_sauvage</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">fsapaʁ</FORM>
+            <TRANSL xml:lang="fr">bétail</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕi</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɣa</FORM>
+            <TRANSL xml:lang="fr">oiseau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕi</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲo-me</FORM>
+            <TRANSL xml:lang="fr">\med-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qajɯ</FORM>
+            <TRANSL xml:lang="fr">insecte</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕi</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲo-me</FORM>
+            <TRANSL xml:lang="fr">\med-ne_pas_avoir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs35">
+        <AUDIO start="185.2486" end="190.0622"/>
+        <FORM kindOf="phono">tɕendɤre nɯ kɯ-fse ku-rɤʑi pjo-ŋu tɕɤn, tɕendɤre tɯ-sŋi tɕe, tɕendɤre nɤkinɯ,</FORM>
+        <TRANSL xml:lang="fr">et il se trouvait ainsi comme cela. Un jour,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ku-rɤʑi</FORM>
+            <TRANSL xml:lang="fr">\ipf-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjo-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕɤn</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-sŋi</FORM>
+            <TRANSL xml:lang="fr">un-jour</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs36">
+        <AUDIO start="191.8829" end="197.7194"/>
+        <FORM kindOf="phono">tɯmɯ nɤmkha nɯ tɕu qro χsɯm pjɤ-nɯɬóʁ-nɯ tɕe,qro χsɯm pjɤ-nɯɬóʁ-nɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">dans le ciel, trois pigeons apparurent,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɯmɯ</FORM>
+            <TRANSL xml:lang="fr">ciel</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤmkha</FORM>
+            <TRANSL xml:lang="fr">ciel</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qro</FORM>
+            <TRANSL xml:lang="fr">pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">χsɯm</FORM>
+            <TRANSL xml:lang="fr">trois</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬóʁ-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qro</FORM>
+            <TRANSL xml:lang="fr">pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">χsɯm</FORM>
+            <TRANSL xml:lang="fr">trois</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬóʁ-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs37">
+        <AUDIO start="197.7054" end="203.6923"/>
+        <FORM kindOf="phono">stu kɯ-wxti nɯ pɯ-ɣe tɕe, pɯ-azɣɯt tɕe, tɕe ci ɲɤ-ʑɣɤ-sɤphɤr tɕe,</FORM>
+        <TRANSL xml:lang="fr">Le plus grand descendit, s'ébroua un peu,</TRANSL>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-wxti</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-grand</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-ɣe</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-venir[2]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-azɣɯt</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-arriver</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-ʑɣɤ-sɤphɤr</FORM>
+            <TRANSL xml:lang="fr">\med-\refl-secouer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs38">
+        <AUDIO start="203.7578" end="207.5485"/>
+        <FORM kindOf="phono">ɯ-qro ɯ-rqhu nɯ, ɯ-ndʐi nɯ pjɤ-qaʁ tɕe, ɲɤ-ɣɤntaβ tɕe,</FORM>
+        <TRANSL xml:lang="fr">et le pigeon ôta sa peau, la posa,</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯ-qro</FORM>
+            <TRANSL xml:lang="fr">3\sg-pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rqhu</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-qaʁ</FORM>
+            <TRANSL xml:lang="fr">\med-enlever.peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-ɣɤntaβ</FORM>
+            <TRANSL xml:lang="fr">\med-poser</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs39">
+        <AUDIO start="207.5259" end="210.4818"/>
+        <FORM kindOf="phono">tɕheme kɯ-mpɕɯ-mpɕɤr ci ɲɤ-nɯɬoʁ.</FORM>
+        <TRANSL xml:lang="fr">et une jeune fille très belle en sortit</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-mpɕɯ-mpɕɤr</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-beau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-sortir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs40">
+        <AUDIO start="210.2787" end="215.2202"/>
+        <FORM kindOf="phono">tɕendɤre nɯ ɯ-qhu tɕe li ci pjɤ-nɯɬoʁ tɕe, li qro ci pjɤ-nɯɬoʁ tɕe,</FORM>
+        <TRANSL xml:lang="fr">ensuite, un autre pigeon apparut,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-qhu</FORM>
+            <TRANSL xml:lang="fr">3\sg-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qro</FORM>
+            <TRANSL xml:lang="fr">pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs41">
+        <AUDIO start="215.0848" end="221.3801"/>
+        <FORM kindOf="phono">pɯ-azɣɯt tɕe, tɕendɤre li nɤkínɯ ɯ-ŋgɯ nɯ tɕu tɕheme kɯ-mpɕɯ-mpɕɤr ci ɲɤ-nɯɬoʁ,</FORM>
+        <TRANSL xml:lang="fr">il descendit et (de sa peau) sortit une jeune fille très belle,</TRANSL>
+        <W>
+            <FORM kindOf="phono">pɯ-azɣɯt</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-arriver</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-mpɕɯ-mpɕɤr</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-beau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-sortir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs42">
+        <AUDIO start="221.8314" end="228.0815"/>
+        <FORM kindOf="phono">tɕendɤre toʁde tɕe, li ci pjɤ-nɯɬoʁ tɕe, nɤkínɯ qro li ci pjɤ-nɯɬoʁ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Un moment plus tard, un autre pigeon apparut,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">toʁde</FORM>
+            <TRANSL xml:lang="fr">moment</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qro</FORM>
+            <TRANSL xml:lang="fr">pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-apparaître</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs43">
+        <AUDIO start="228.1266" end="230.7441"/>
+        <FORM kindOf="phono">pɯ-azɣɯt tɕe li ɲɤ-ʑɣɤ-sɤphɤr tɕe,</FORM>
+        <TRANSL xml:lang="fr">il descendit et s'ébroua à nouveau,</TRANSL>
+        <W>
+            <FORM kindOf="phono">pɯ-azɣɯt</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-arriver</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-ʑɣɤ-sɤphɤr</FORM>
+            <TRANSL xml:lang="fr">\med-\refl-secouer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs44">
+        <AUDIO start="230.9471" end="233.7676"/>
+        <FORM kindOf="phono">nɯ ɯ-ŋgɯ tɕheme kɯ-mpɕɯ-mpɕɤr ci ɲɤ-nɯɬoʁ, tɕendɤre nɤkínɯ,</FORM>
+        <TRANSL xml:lang="fr">et (de sa peau) sortit une jeune fille très belle,</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-mpɕɯ-mpɕɤr</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-beau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-nɯɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\med-sortir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs45">
+        <AUDIO start="234.3602" end="245.3938"/>
+        <FORM kindOf="phono">nɯnɯ nɤkínɯ, tɤŋe, nɤkínɯ, sos tɤŋe pɯ-ɣe ɯ-rcɯ-rca tɕe pjɯ-ɣí-nɯ tɕɤn,</FORM>
+        <TRANSL xml:lang="fr">Quand le soleil apparaissait le matin, elle descendaient à sa suite,</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤŋe</FORM>
+            <TRANSL xml:lang="fr">soleil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sos</FORM>
+            <TRANSL xml:lang="fr">matin</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤŋe</FORM>
+            <TRANSL xml:lang="fr">soleil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-ɣe</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-venir[2]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rcɯ-rca</FORM>
+            <TRANSL xml:lang="fr">3\sg-\redp-à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɯ-ɣí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\bas-venir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕɤn</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs46">
+        <AUDIO start="245.3280" end="247.6634"/>
+        <FORM kindOf="phono">tɕe, nɯ tu-fsé-nɯ tɕe, lu-nɤtsóʁ-nɯ pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">elle faisaient ainsi, elles allaient ramasser des gromas,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-fsé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_ainsi-pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lu-nɤtsóʁ-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-ramasser_les_gromas-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs47">
+        <AUDIO start="248.1034" end="255.5156"/>
+        <FORM kindOf="phono">tɯrmɯkha tɤŋe tɤ-anɯri ɯ-rcɯ-rca tɕe, tɕendɤre, li tu-nɯɕé-nɯ tɕɤn, nɯ-qro-ndʐi nɯ tu-nɯ-ŋgá-nɯ tɕe,</FORM>
+        <TRANSL xml:lang="fr">Au crépuscule, quand le soleil remontait, elle remontaient elles aussi, et se revêtaient de leurs peaux de pigeon.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɯrmɯkha</FORM>
+            <TRANSL xml:lang="fr">crépuscule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤŋe</FORM>
+            <TRANSL xml:lang="fr">soleil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-anɯri</FORM>
+            <TRANSL xml:lang="fr">\aor:\haut-revenir[2]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rcɯ-rca</FORM>
+            <TRANSL xml:lang="fr">3\sg-\redp-à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-nɯɕé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-revenir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕɤn</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ-qro-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\pl-peau-pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-nɯ-ŋgá-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-\auto-habiller-pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs48">
+        <AUDIO start="255.3105" end="259.0335"/>
+        <FORM kindOf="phono">tu-nɤqambɯmbjóm-nɯ tɕe, tu-nɯɕé-nɯ tɕe, tɯmɯ nɤmkha tu-ɕqhlɤ́t-nɯ pjɤ-ŋu,</FORM>
+        <TRANSL xml:lang="fr">elles s'envolaient et disparaissaient dans le ciel.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tu-nɯqambɯmbjóm-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-voler-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-nɯɕé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-revenir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯmɯ</FORM>
+            <TRANSL xml:lang="fr">ciel</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤmkha</FORM>
+            <TRANSL xml:lang="fr">ciel</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-ɕqhlɤ́t-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-sombrer-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs49">
+        <AUDIO start="259.6089" end="263.9412"/>
+        <FORM kindOf="phono">tɕe tu-nɯɕé-nɯ ntsɯ pjɤ-ŋu tɕe, nɯnɯ tɯmɯ kɤ-rŋi ɯ-me pjɤ-ŋu tɕe,</FORM>
+        <TRANSL xml:lang="fr">Elles repartaient toujours, car c'étaient les filles du ciel bleu.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-nɯɕé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-revenir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯmɯ</FORM>
+            <TRANSL xml:lang="fr">ciel</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-ɤrŋi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-bleu</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-me</FORM>
+            <TRANSL xml:lang="fr">3\sg-fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs50">
+        <AUDIO start="263.8857" end="266.9826"/>
+        <FORM kindOf="phono">tɕe pjɯ-ɣí-nɯ tɕe, lu-nɤtsóʁ-nɯ tɯrmɯkha tɕe,</FORM>
+        <TRANSL xml:lang="fr">Le matin elles arrivaient, ramassaient des gromas, et vers le soir,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɯ-ɣí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\bas-venir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lu-nɤtsóʁ-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-ramasser_les_gromas-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯrmɯkha</FORM>
+            <TRANSL xml:lang="fr">crépuscule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs51">
+        <AUDIO start="266.9318" end="269.6395"/>
+        <FORM kindOf="phono">tɤŋe ɯ-rca tɕe, tu-nɯɕé-nɯ pjɤ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">à la suite du soleil, elles repartaient,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤŋe</FORM>
+            <TRANSL xml:lang="fr">soleil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rca</FORM>
+            <TRANSL xml:lang="fr">3\sg-à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-nɯɕé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-revenir-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs52">
+        <AUDIO start="269.8256" end="272.9902"/>
+        <FORM kindOf="phono">tɕe sɲikuku ʑo nɯ ntsɯ tu-fsé-nɯ pjɤ-ŋu tɕe.</FORM>
+        <TRANSL xml:lang="fr">C'était ainsi tous les jours.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɲikuku</FORM>
+            <TRANSL xml:lang="fr">tous_les_jours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-fsé-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf-être_ainsi-pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs53">
+        <AUDIO start="273.1807" end="285.5852"/>
+        <FORM kindOf="phono">kɯ-máqhu tɕe tɕendɤre, tɕe tɯ-sŋi tɕendɤre, iɕqha nɯ, qro ɯ-ndʐi tɯ-rdoʁ nɯ tɤ-tɕɯ nɯ kɯ ko-nɤtsɯ. tɕe ko-nɤtsɯ tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">Enfin, un jour, le garçon cacha une des peaux de pigeon.</TRANSL>
+        <W>
+            <FORM kindOf="phono">kɯ-maqhu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-sŋi</FORM>
+            <TRANSL xml:lang="fr">un-jour</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">iɕqha</FORM>
+            <TRANSL xml:lang="fr">à_l'instant</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qro</FORM>
+            <TRANSL xml:lang="fr">pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rdoʁ</FORM>
+            <TRANSL xml:lang="fr">un-morceau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM>kɯ</FORM>
+            <TRANSL>\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-nɤtsɯ</FORM>
+            <TRANSL xml:lang="fr">\med-cacher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-nɤtsɯ</FORM>
+            <TRANSL xml:lang="fr">\med-cacher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs54">
+        <AUDIO start="285.9395" end="294.5533"/>
+        <FORM kindOf="phono">nɤkínɯ ko-nɤtsɯ tɕe, tɯrmɯkha kɤ-nɯɕe to-mda tɕe, tɕendɤre tɤpi nɯ ni ɣɯ pjɤ-tu tɕe nɤkínɯ to-nɯ-ŋgá-ndʑi ri,</FORM>
+        <TRANSL xml:lang="fr">Au crépuscule, quand le moment de retourner arriva, les deux grandes sœurs avaient leur peau, et s'en revêtirent,</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-nɤtsɯ</FORM>
+            <TRANSL xml:lang="fr">\med-cacher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯrmɯ</FORM>
+            <TRANSL xml:lang="fr">après-midi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kha</FORM>
+            <TRANSL xml:lang="fr">maison</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤ-nɯɕe</FORM>
+            <TRANSL xml:lang="fr">\inft-retourner</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-mda</FORM>
+            <TRANSL xml:lang="fr">\med-arriver</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-pi</FORM>
+            <TRANSL xml:lang="fr">\neu-grande_sœur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ni</FORM>
+            <TRANSL xml:lang="fr">\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-tu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-nɯ-ŋgá-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-\auto-habiller-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs55">
+        <AUDIO start="294.5363" end="298.9871"/>
+        <FORM kindOf="phono">kɯ-xtɕi nɯ ɣɯ pjɤ-me tɕe, tɕendɤre rca kɯzɣɤ-ɕar ʑo ɲɤ-βzú-nɯ ri pjɤ-me.</FORM>
+        <TRANSL xml:lang="fr">mais la petite n'avait plus la sienne, et bien qu'elles l'aient cherché pendant longtemps, elles ne parvinrent pas à la retrouver.</TRANSL>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">rca</FORM>
+            <TRANSL xml:lang="fr">à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯzɣɤ-ɕar</FORM>
+            <TRANSL xml:lang="fr">longtemps-chercher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-βzú-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-faire-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-ne_pas_avoir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs56">
+        <AUDIO start="299.3031" end="301.4227"/>
+        <FORM kindOf="phono">tɕe kɯ-máqhu tɕe, "nɤʑo tɤ-tɯ-nɯ-ndo-t ŋu.</FORM>
+        <TRANSL xml:lang="fr">enfin, (elles devinèrent que le garçon l'avait caché et lui dirent :) "C'est toi qui l'as prise</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-maqhu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɯ-nɯ-ndo-t</FORM>
+            <TRANSL xml:lang="fr">\aor-2-\auto-tenir-\pst</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋu</FORM>
+            <TRANSL xml:lang="fr">\npst:être</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs57">
+        <AUDIO start="301.3973" end="303.8469"/>
+        <FORM kindOf="phono">tɕe nɯ-khɤm ma ɯntɕe kɤ-nɯɕe mɯ́j-khɯ" to-tí-nɯ.</FORM>
+        <TRANSL xml:lang="fr">et donne-la nous, car sinon elle (la petite sœur) ne pourra pas retourner.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ-khɤm</FORM>
+            <TRANSL xml:lang="fr">\imp-donner[3]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯntɕe</FORM>
+            <TRANSL xml:lang="fr">sinon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤ-nɯɕe</FORM>
+            <TRANSL xml:lang="fr">\inft-retourner</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɯ́j-khɯ</FORM>
+            <TRANSL xml:lang="fr">\negat.\const-pouvoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs58">
+        <AUDIO start="304.3800" end="306.5376"/>
+        <FORM kindOf="phono">tɕeri "aʑo tɤ-nɯ-ndó-t-a me" to-ti</FORM>
+        <TRANSL xml:lang="fr">mais il répondit : "Je ne l'ai pas prise".</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕeri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">aʑo</FORM>
+            <TRANSL xml:lang="fr">1\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-nɯ-ndó-t-a</FORM>
+            <TRANSL xml:lang="fr">\aor-\auto-prendre-\pstTransSg-1\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">me</FORM>
+            <TRANSL xml:lang="fr">\npst:ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs59">
+        <AUDIO start="307.0199" end="310.9291"/>
+        <FORM kindOf="phono">tɕe "nɤʑo tɯ-ŋu ma nɤʑo nɯ ma i-ɕki pɯ-kɯ-rɤʑi me" to-tí-nɯ</FORM>
+        <TRANSL xml:lang="fr">"C'est toi car il n'y a personne d'autre que toi ici auprès de nous."</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-ŋu</FORM>
+            <TRANSL xml:lang="fr">2-\npst:être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ji-ɕki</FORM>
+            <TRANSL xml:lang="fr">1\pl-\dat</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-kɯ-rɤʑi</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:S-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">me</FORM>
+            <TRANSL xml:lang="fr">\npst:ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs60">
+        <AUDIO start="311.4423" end="315.4149"/>
+        <FORM kindOf="phono">tɕeri maka mɯ-to-khɯ tɕeri ci nɯ ra li mɯ-to-khɯ́-nɯ tɕe</FORM>
+        <TRANSL xml:lang="fr">Il n'était pas d'accord, et elles (continuèrent de lui demander la peau).</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕeri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">maka</FORM>
+            <TRANSL xml:lang="fr">complètement</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɯ-to-khɯ</FORM>
+            <TRANSL xml:lang="fr">\negat-\med-être_d'accord</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕeri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ci</FORM>
+            <TRANSL xml:lang="fr">un</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɯ-to-khɯ́-nɯ</FORM>
+            <TRANSL xml:lang="fr">\negat-\med-être_d'accord-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs61">
+        <AUDIO start="315.6588" end="322.1952"/>
+        <FORM kindOf="phono">tɕendɤre qhe "aʑo tɤrca tu-kɯ-tsɯm-á-nɯ ra ma aʑo kɯtɕu a-zda maŋe.</FORM>
+        <TRANSL xml:lang="fr">"Emportez-moi avec vous car je n'ai aucun compagnon ici".</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">aʑo</FORM>
+            <TRANSL xml:lang="fr">1\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤrca</FORM>
+            <TRANSL xml:lang="fr">à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-kɯ-tsɯm-á-nɯ</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-2&gt;1-emporter-1\sg-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\npst:falloir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">aʑo</FORM>
+            <TRANSL xml:lang="fr">1\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯtɕu</FORM>
+            <TRANSL xml:lang="fr">ici</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">a-zda</FORM>
+            <TRANSL xml:lang="fr">1\sg-compagnon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">maŋe</FORM>
+            <TRANSL xml:lang="fr">\npst:ne_pas_avoir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs62">
+        <AUDIO start="322.3729" end="325.2667"/>
+        <FORM kindOf="phono">mɯ-mɤ-kɯ-tsɯm-á-nɯ qhe mɤ-khám-a" to-ti.</FORM>
+        <TRANSL xml:lang="fr">si vous ne m'emportez pas, je ne vous la donnerai pas".</TRANSL>
+        <W>
+            <FORM kindOf="phono">mɯ-mɤ-kɯ-tsɯm-á-nɯ</FORM>
+            <TRANSL xml:lang="fr">\redp-\negat-2&gt;1-\npst:emporter-1\sg-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɤ-khám-a</FORM>
+            <TRANSL xml:lang="fr">\negat-\npst:donner[3]-1\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs63">
+        <AUDIO start="325.7490" end="329.5820"/>
+        <FORM kindOf="phono">tɕendɤre kɯ-máqhu tɕendɤre , to-tsɯ́m-nɯ pjɤ-ra.</FORM>
+        <TRANSL xml:lang="fr">Finalement, elle durent se résoudre à l'emmener.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-maqhu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tsɯ́m-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med:\haut-emporter-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ra</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-falloir</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs64">
+        <AUDIO start="330.0575" end="333.4082"/>
+        <FORM kindOf="phono">tɕendɤre tɤtɕɯ nɯ to-tsɯ́m-nɯ jarma tɕendɤre</FORM>
+        <TRANSL xml:lang="fr">Au moment d'emporter le garçon,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tsɯ́m-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med:\haut-emporter-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">jarma</FORM>
+            <TRANSL xml:lang="fr">à_peu_près</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs65">
+        <AUDIO start="333.4677" end="337.9226"/>
+        <FORM kindOf="phono">tɕheme stu kɯ-xtɕi ɣɯ ɯ-qro ɯ-ndʐi nɯ ko-nɤtsɯ pjɤ-ŋu tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">comme la peau de pigeon de la petite sœur avait été cachée,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-qro</FORM>
+            <TRANSL xml:lang="fr">3\sg-pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-nɤtsɯ</FORM>
+            <TRANSL xml:lang="fr">\med-cacher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs66">
+        <AUDIO start="337.8972" end="343.1771"/>
+        <FORM kindOf="phono">tɕheme stu kɯ-xtɕi nɯnɯ kɯ-maqhu tɕɤn ɯ-pi ni kɯ to-nɯɕé-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">A la fin, ses deux grandes sœurs retournèrent (au ciel)</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">stu</FORM>
+            <TRANSL xml:lang="fr">le_plus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-maqhu</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-après</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕɤn</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-pi</FORM>
+            <TRANSL xml:lang="fr">3\sg-grande_sœur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ni</FORM>
+            <TRANSL xml:lang="fr">\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-nɯɕé-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med:\haut-retourner-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs67">
+        <AUDIO start="343.1542" end="348.3199"/>
+        <FORM kindOf="phono">mɯ-ko-nɤjó-ndʑi pjɤ-ɕti tɕe, tɕendɤre ɯʑo tɤtɕɯ nɯ kɯ ɲó-wɣ-sɯɣlɯs ɕti tɕe,</FORM>
+        <TRANSL xml:lang="fr">sans l'attendre puisque le garçon avait fait de telle manière qu'elle était contrainte de rester là.</TRANSL>
+        <W>
+            <FORM kindOf="phono">mɯ-kó-wɣ-nɤjo</FORM>
+            <TRANSL xml:lang="fr">\negat-\med-\inv-attendre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɕti</FORM>
+            <TRANSL xml:lang="fr">\npst:être.affirmation</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲó-wɣ-sɯɣ-lɯs</FORM>
+            <TRANSL xml:lang="fr">\med-\inv-\caus-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɕti</FORM>
+            <TRANSL xml:lang="fr">\npst:être.affirmation</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs68">
+        <AUDIO start="348.2819" end="353.3841"/>
+        <FORM kindOf="phono">tɕendɤre "tu-ta-tsɯm ɲɯ-ntshi" to-ti, tɕendɤre ta-tsɯm tɕe, tɕendɤre.</FORM>
+        <TRANSL xml:lang="fr">elle dit : "je n'ai pas d'autre choix que de de t'emmener"</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tu-ta-tsɯm</FORM>
+            <TRANSL xml:lang="fr">\ipf:\haut-1&gt;2-emporter</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ntshi</FORM>
+            <TRANSL xml:lang="fr">\const-mieux_valloir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ta-tsɯm</FORM>
+            <TRANSL xml:lang="fr">1&gt;2-\npst:emporter</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs69">
+        <AUDIO start="353.6979" end="357.1755"/>
+        <FORM kindOf="phono">tɤɣi ra kɯ, nɤkínɯ "tɕhi ɯ-spa jɤ-tɯ-ɣɯt ?" to-tí-nɯ ri</FORM>
+        <TRANSL xml:lang="fr">mais ses parents lui demandèrent "Qu'as-tu donc ramené là ?"</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤ-ɣi</FORM>
+            <TRANSL xml:lang="fr">\neu-parent</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕhi</FORM>
+            <TRANSL xml:lang="fr">quoi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-spa</FORM>
+            <TRANSL xml:lang="fr">3\sg-matériau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">jɤ-tɯ-ɣɯt</FORM>
+            <TRANSL xml:lang="fr">\aor-2-ramener</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs70">
+        <AUDIO start="357.1374" end="360.8562"/>
+        <FORM kindOf="phono">tɕendɤre, tɕheme nɯ kɯ pɯ-kɯ-fse ra ɲɤ-rɤfɕɤt tɕe tɕendɤre,</FORM>
+        <TRANSL xml:lang="fr">et la jeune fille leur raconta ce qui s'était produit,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕheme</FORM>
+            <TRANSL xml:lang="fr">fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-kɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:S-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-rɤfɕɤt</FORM>
+            <TRANSL xml:lang="fr">\med-raconter</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs71">
+        <AUDIO start="361.2880" end="368.8017"/>
+        <FORM kindOf="phono">[tɤmu nɯ] tɤɣi ra kɯ, nɤkínɯ tɕhemepɯ wuma ʑo ɲɤ-rɯɣné-nɯ,</FORM>
+        <TRANSL xml:lang="fr">ses parents la grondèrent</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤ-mu</FORM>
+            <TRANSL xml:lang="fr">mère</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-ɣi</FORM>
+            <TRANSL xml:lang="fr">\neu-parent</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕhemepɯ</FORM>
+            <TRANSL xml:lang="fr">petite_fille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">wuma</FORM>
+            <TRANSL xml:lang="fr">très</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-rɯɣné-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-gronder-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs72">
+        <AUDIO start="369.2554" end="372.4285"/>
+        <FORM kindOf="phono">tɕeri ɲɤ-rɯɣné-nɯ ri nɤjtshɯ pjɤ-me qhe,</FORM>
+        <TRANSL xml:lang="fr">"Tu n'es vraiment bonne à rien,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕeri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-rɯɣné-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-gronder-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ri</FORM>
+            <TRANSL xml:lang="fr">mais</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤjtshɯ</FORM>
+            <TRANSL xml:lang="fr">\npst:être_utile</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-me</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-ne_pas_avoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs73">
+        <AUDIO start="372.5808" end="377.3784"/>
+        <FORM kindOf="phono">tɕendɤre tɕe nɤʑo to-tɯ-ɣɯt ɕti tɕe qhe, nɤʑo sɤtɕha ɯ-ku nɤki nɤki,</FORM>
+        <TRANSL xml:lang="fr">puisque tu l'as ramené ici, tu vas devoir descendre sur terre</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tɯ-ɣɯt</FORM>
+            <TRANSL xml:lang="fr">\med:\haut-2-amener</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɕti</FORM>
+            <TRANSL xml:lang="fr">\npst:être.affirmation</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs74">
+        <AUDIO start="377.4471" end="382.8413"/>
+        <FORM kindOf="phono">pɯ-ɕe tɕe, ʑimkhɤm ɯ-ku nɯ tɕu, nɤki tɯrma ɕ-kɤ-ndɤm ɲɯ-ɬoʁ" to-ti,</FORM>
+        <TRANSL xml:lang="fr">et vivre ta vie là-bas,</TRANSL>
+        <W>
+            <FORM kindOf="phono">pɯ-ɕe</FORM>
+            <TRANSL xml:lang="fr">\ipf:\bas-aller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑimkhɤm</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯrma</FORM>
+            <TRANSL xml:lang="fr">vie_quotidienne</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɕ-kɤ-ndɤm</FORM>
+            <TRANSL xml:lang="fr">\transl-\imp-tenir[3]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\ipf-devoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs75">
+        <AUDIO start="382.8032" end="385.0370"/>
+        <FORM kindOf="phono">tɕe "pɯ-mɤrʑaβ ɲɯ-ɬoʁ" to-tí-nɯ.</FORM>
+        <TRANSL xml:lang="fr">et tu n'as d'autre choix que de te marier"</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-mɤrʑaβ</FORM>
+            <TRANSL xml:lang="fr">\imp-se_marier</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɬoʁ</FORM>
+            <TRANSL xml:lang="fr">\ipf-devoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-tí-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-dire-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs76">
+        <AUDIO start="388.1053" end="395.3398"/>
+        <FORM kindOf="phono">tɕendɤre nɤkínɯ  nɤkínɯ "nɤʑɯɣ nɤ-ftɕaka nɯ pɯ-pɯ-ŋu nɤ, spɣi ŋgɯ lɤ-ɕe qhe,</FORM>
+        <TRANSL xml:lang="fr">En ce qui concerne ta dot, monte au grenier,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤkínɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑɯɣ</FORM>
+            <TRANSL xml:lang="fr">2\sg.\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ-ftɕaka</FORM>
+            <TRANSL xml:lang="fr">2\sg-dot</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-pɯ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\redp-\pst\ipf-être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">spɣi</FORM>
+            <TRANSL xml:lang="fr">grenier</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lɤ-ɕe</FORM>
+            <TRANSL xml:lang="fr">\imp:\amont-aller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs77">
+        <AUDIO start="395.8999" end="404.8732"/>
+        <FORM kindOf="phono">tɕendɤre nɤ-phoŋbu kɯ-kɯspoʁ ʑo nɯnɯ, nɤki, tɤrɤku xtsɯsna ɣɯ nɯnɯ mɯtɕhɯmɯrɯs ɯ-rɣi nɯ a-tɤ-tɯ-rke qhe,</FORM>
+        <TRANSL xml:lang="fr">et mets dans tous les orifices de ton corps toutes les sortes de céréales,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ-phoŋbu</FORM>
+            <TRANSL xml:lang="fr">2\sg-corps</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-kɯspoʁ</FORM>
+            <TRANSL xml:lang="fr">\redp-trou</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-rɤku</FORM>
+            <TRANSL xml:lang="fr">\neu-récolte</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">xtsɯsna</FORM>
+            <TRANSL xml:lang="fr">toutes_sortes</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">mɯtɕhɯmɯrɯs</FORM>
+            <TRANSL xml:lang="fr">toutes_sortes</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rɣi</FORM>
+            <TRANSL xml:lang="fr">3\sg-graines</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">a-tɤ-tɯ-rke</FORM>
+            <TRANSL xml:lang="fr">\irreel-\prf-2-mettre[3]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs78">
+        <AUDIO start="404.8240" end="410.8274"/>
+        <FORM kindOf="phono">nɤj thɤstɯɣ tɯ-chɯ-cha ʑo nɤ, a-tɤ-tɯ-nɯ-rke qhe nɯnɯ nɤʑo ɣɯ nɤ-rkus ŋu" to-ti,</FORM>
+        <TRANSL xml:lang="fr">mets-en autant que tu peux, c'est ton cadeau.</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɤj</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">thɤstɯɣ</FORM>
+            <TRANSL xml:lang="fr">combien</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-chɯ-cha</FORM>
+            <TRANSL xml:lang="fr">2-\redp-\npst:pouvoir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">a-tɤ-tɯ-nɯ-rke</FORM>
+            <TRANSL xml:lang="fr">\irreel-\prf-2-\auto-mettre[3]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤʑo</FORM>
+            <TRANSL xml:lang="fr">2\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ-rkus</FORM>
+            <TRANSL xml:lang="fr">2\sg-cadeau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋu</FORM>
+            <TRANSL xml:lang="fr">\npst:être</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ti</FORM>
+            <TRANSL xml:lang="fr">\med-dire</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs79">
+        <AUDIO start="412.5408" end="418.9122"/>
+        <FORM kindOf="phono">tɕendɤre to-ɕe qhe, tɕendɤre ɯ-rna ŋgɯ, ɯ-mɲaʁ ŋgɯ, ɯ-ɕnɤɣɲɟɯ, ɯ-kɯr ŋgɯ,</FORM>
+        <TRANSL xml:lang="fr">elle y monta, et bourra ses oreilles, ses yeux, ses narines, sa bouche,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ɕe</FORM>
+            <TRANSL xml:lang="fr">\med:\haut-aller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rna</FORM>
+            <TRANSL xml:lang="fr">3\sg-oreille</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-mɲaʁ</FORM>
+            <TRANSL xml:lang="fr">3\sg-oeil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">intérieur</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ɕnɤɣɲɟɯ</FORM>
+            <TRANSL xml:lang="fr">3\sg-narine</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-kɯr</FORM>
+            <TRANSL xml:lang="fr">3\sg-bouche</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ŋgɯ</FORM>
+            <TRANSL xml:lang="fr">intérieur</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs80">
+        <AUDIO start="419.2306" end="426.3890"/>
+        <FORM kindOf="phono">nɯ ra rcánɯ ɯ-βri kɯ-kɯ-spoʁ ʑo nɯnɯ nɤki tɤrɤku xtsɯsna ɯ-rɣi ʑo ko-rɤɣndi,</FORM>
+        <TRANSL xml:lang="fr">tous les orifices de son corps, avec toutes sortes de céréales.</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">rcánɯ</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-βri</FORM>
+            <TRANSL xml:lang="fr">3\sg-corps</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-kɯspoʁ</FORM>
+            <TRANSL xml:lang="fr">\redp-trou</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤki</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-rɤku</FORM>
+            <TRANSL xml:lang="fr">\neu-récolte</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">xtsɯsna</FORM>
+            <TRANSL xml:lang="fr">toutes_sortes</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rɣi</FORM>
+            <TRANSL xml:lang="fr">3\sg-graine</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑo</FORM>
+            <TRANSL xml:lang="fr">\particule</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ko-rɤɣndi</FORM>
+            <TRANSL xml:lang="fr">\med-bourrer</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs81">
+        <AUDIO start="426.5423" end="434.7287"/>
+        <FORM kindOf="phono">qhe nɯ kɯ-fse tó-wɣ-z-rɤŋgat, tɕendɤre ɯ-fso qhe tɕe li tɤŋe pɯ-ari ɯ-rcɯ-rca nɯ tɕu qhe,</FORM>
+        <TRANSL xml:lang="fr">Le moment du départ arriva, et le lendemain, suivant la descente du soleil,</TRANSL>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tó-wɣ-z-rɤŋgat</FORM>
+            <TRANSL xml:lang="fr">\med-\inv-\caus-se_préparer_à_partir</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-fso</FORM>
+            <TRANSL xml:lang="fr">3\sg-lendemain</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤŋe</FORM>
+            <TRANSL xml:lang="fr">soleil</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-ari</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-aller[2]</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-rcɯ-rca</FORM>
+            <TRANSL xml:lang="fr">3\sg-\redp-à_la_suite</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs82">
+        <AUDIO start="434.9142" end="438.0111"/>
+        <FORM kindOf="phono">ɯʑo kɯ ɯ-qro ɯ-ndʐi nɯ to-ŋga qhe ɯ-taʁ nɯ tɕu,</FORM>
+        <TRANSL xml:lang="fr">Vêtue de la peau de pigeon,</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯʑo</FORM>
+            <TRANSL xml:lang="fr">3\sg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-qro</FORM>
+            <TRANSL xml:lang="fr">3\sg-pigeon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ndʐi</FORM>
+            <TRANSL xml:lang="fr">3\sg-peau</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-ŋga</FORM>
+            <TRANSL xml:lang="fr">\med-habiller</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-taʁ</FORM>
+            <TRANSL xml:lang="fr">3\sg-dessus</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs83">
+        <AUDIO start="437.9603" end="440.7272"/>
+        <FORM kindOf="phono">tɤtɕɯ nɯ to-nɯmbrɤpɯ tɕe pjɤ-ɕé-ndʑi, tɕendɤre pɯ-arí-ndʑi qhe</FORM>
+        <TRANSL xml:lang="fr">elle porta le garçon sur son dos, et ils descendirent,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤ-tɕɯ</FORM>
+            <TRANSL xml:lang="fr">\neu-garçon</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">to-nɯmbrɤpɯ</FORM>
+            <TRANSL xml:lang="fr">\med-chevaucher</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-ɕé-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med:\bas-aller-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-arí-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\aor:\bas-aller[2]-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs84">
+        <AUDIO start="440.8670" end="447.4796"/>
+        <FORM kindOf="phono">tɕendɤre sɤtɕha ɯ-ku nɯ ʑimkhɤm ɯ-ku nɯ tɕu ʑɤni ma kɯ-rɤʑi pjɤ-mé-ndʑi qhe,</FORM>
+        <TRANSL xml:lang="fr">Sur la terre, ils étaient tous seuls,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑimkhɤm</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑɤni</FORM>
+            <TRANSL xml:lang="fr">3\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ma</FORM>
+            <TRANSL xml:lang="fr">à_part</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-rɤʑi</FORM>
+            <TRANSL xml:lang="fr">\nmls:S-rester</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pjɤ-mé-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med\ipf-ne_pas_avoir-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs85">
+        <AUDIO start="447.6355" end="454.5400"/>
+        <FORM kindOf="phono">tɕendɤre tɯ-pɣaʁ lo-tɕɤ́t-ndʑi qhe, nɯ ɣɯ, ɯ-βri [tɤ...] kɯ-spoʁ ɣɯ tɤ-kɤ-rku nɯ ra kɯ-xtɕɯ-xtɕi nɯ ra lo-jí-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">ils défrichèrent la terre, et semèrent les céréales que la fille avait mises dans ses orifices,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-pɣaʁ</FORM>
+            <TRANSL xml:lang="fr">\nmls:Act-retourner</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lo-tɕɤ́t-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med:\amont-prendre-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-βri</FORM>
+            <TRANSL xml:lang="fr">3\sg-corps</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯspoʁ</FORM>
+            <TRANSL xml:lang="fr">trou</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɤ-kɤ-rku</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-mettre</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lo-jí-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-semer-\du</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs86">
+        <AUDIO start="455.1977" end="460.0207"/>
+        <FORM kindOf="phono">tɕe lo-jí-ndʑi qhe, tɯ-xpa qhe, kɯ-xtɕɯ-xtɕi ntsɯ lo-jí-ndʑi qhe, nɯ kɤ-phɯ́t-ndʑi qhe,</FORM>
+        <TRANSL xml:lang="fr">ils semèrent, et un an plus tard il semèrent à nouveau un peu, ils récoltèrent,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lo-jí-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-semer-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-xpa</FORM>
+            <TRANSL xml:lang="fr">un-an</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-xtɕɯ-xtɕi</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-petit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lo-jí-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-semer-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤ-phɯ́t-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\aor-arracher-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs87">
+        <AUDIO start="460.1349" end="464.5772"/>
+        <FORM kindOf="phono">ɯ-fsɤqhe qhe li lo-jí-ndʑi qhe, nɯ kɯ-fse ntsɯ ɲo-ɣɤdɤ́n-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">et l'année suivante semèrent à nouveau, et faisaient se multiplier (les céréales) de plus en plus,</TRANSL>
+        <W>
+            <FORM kindOf="phono">ɯ-fsɤqhe</FORM>
+            <TRANSL xml:lang="fr">3\sg-année_prochaine</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lo-jí-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-semer-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲo-ɣɤdɤ́n-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-augmenter-\du</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs88">
+        <AUDIO start="464.6185" end="470.2792"/>
+        <FORM kindOf="phono">tɕendɤre ʑɤni kɯ́nɤ, tɕe ɯ-khɯ-kha chɤ-rɤrɟít-ndʑi qhe,</FORM>
+        <TRANSL xml:lang="fr">Ils eurent également des enfants,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑɤni</FORM>
+            <TRANSL xml:lang="fr">3\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ́nɤ</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-khɯ-kha</FORM>
+            <TRANSL xml:lang="fr">3\sg-\redp-moment</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-rɤrɟít-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-avoir_des_enfants-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs89">
+        <AUDIO start="470.5965" end="475.7876"/>
+        <FORM kindOf="phono">tɕendɤre thɯ-rɤrɟít-ndʑi qhe, tɕe nɯ ɣɯ ndʑi-rɟit nɯ ra [chɤ-rɤrɟít-ndʑi] chɤ-rɤrɟít-nɯ.</FORM>
+        <TRANSL xml:lang="fr">et ces enfants eux-mêmes en eurent,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕendɤre</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">thɯ-rɤrɟít-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\aor-avoir_des_enfants-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ndʑi-rɟit</FORM>
+            <TRANSL xml:lang="fr">3\du-enfant</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-rɤrɟít-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-avoir_des_enfants-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-rɤrɟít-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-avoir_des_enfants-\pl</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs90">
+        <AUDIO start="475.8295" end="478.8249"/>
+        <FORM kindOf="phono">tɕe nɯnɯ ɣɯ nɯ-rɟit nɯ ra li chɤ-rɤrɟít-nɯ nɤ,</FORM>
+        <TRANSL xml:lang="fr">et ceci en eurent à nouveau,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɣɯ</FORM>
+            <TRANSL xml:lang="fr">\gen</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ-rɟit</FORM>
+            <TRANSL xml:lang="fr">3\pl-enfant</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">chɤ-rɤrɟít-nɯ</FORM>
+            <TRANSL xml:lang="fr">\med-avoir_des_enfants-\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs91">
+        <AUDIO start="478.7995" end="482.4041"/>
+        <FORM kindOf="phono">nɯ ntsɯ  kɯ-fsɯ-fse qhe tɕe ʑirɯʑɤri tɕe,</FORM>
+        <TRANSL xml:lang="fr">et ainsi, progressivement,</TRANSL>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ntsɯ</FORM>
+            <TRANSL xml:lang="fr">toujours</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-fsɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-\redp-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">qhe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑirɯʑɤri</FORM>
+            <TRANSL xml:lang="fr">progressivement</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs92">
+        <AUDIO start="482.3628" end="488.2392"/>
+        <FORM kindOf="phono">ʑimkhɤm ɯ-ku nɯ  tɕu tɯrme nɯ ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi nɤ ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">ils (le garçon et la fille du ciel) furent à l'origine de la multiplication des hommes sur la terre,</TRANSL>
+        <W>
+            <FORM kindOf="phono">ʑimkhɤm</FORM>
+            <TRANSL xml:lang="fr">monde</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕu</FORM>
+            <TRANSL xml:lang="fr">\loc</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rme</FORM>
+            <TRANSL xml:lang="fr">\neu-homme</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\redp-\med-augmenter-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\redp-\med-augmenter-\du</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs93">
+        <AUDIO start="488.3384" end="492.1841"/>
+        <FORM kindOf="phono">tɤrɤku kɯ́nɤ ʑɤni kɯ lɤ-kɤ-ji pɯ-kɤ-ɣɯt nɯnɯ,</FORM>
+        <TRANSL xml:lang="fr">les céréales, c'étaient également eux deux qui les avaient ramenées et cultivées,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤ-rɤku</FORM>
+            <TRANSL xml:lang="fr">\neu-récolte</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ́nɤ</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑɤni</FORM>
+            <TRANSL xml:lang="fr">3\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lɤ-kɤ-ji</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-semer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">pɯ-kɤ-ɣɯt</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-amener</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯnɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs94">
+        <AUDIO start="492.1588" end="496.2329"/>
+        <FORM kindOf="phono">lɤ-kɤ-ji nɤ lɤ-kɤ-ji, lɤ-kɤ-ji nɤ lɤ-kɤ-ji, nɯ kɯ ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi tɕe,</FORM>
+        <TRANSL xml:lang="fr">En les semant encore et encore, ils les firent se multiplier,</TRANSL>
+        <W>
+            <FORM kindOf="phono">lɤ-kɤ-ji</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-semer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lɤ-kɤ-ji</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-semer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lɤ-kɤ-ji</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-semer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɤ</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">lɤ-kɤ-ji</FORM>
+            <TRANSL xml:lang="fr">\aor-\nmls:O-semer</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ɲɤ-ɣɤdɤ́n-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\redp-\med-augmenter-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs95">
+        <AUDIO start="496.5756" end="500.0406"/>
+        <FORM kindOf="phono">tɕe sɤtɕha ɯ-ku tɯrme nɯ ʑɤni kɯ ɲɤ-sɤpɯpá-ndʑi,</FORM>
+        <TRANSL xml:lang="fr">Et l'on dit donc que ce sont eux qui ont conçu les hommes qui se trouvent sur la terre,</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɕe</FORM>
+            <TRANSL xml:lang="fr">\conj</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">sɤtɕha</FORM>
+            <TRANSL xml:lang="fr">endroit</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɯ-ku</FORM>
+            <TRANSL xml:lang="fr">3\sg-tête</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">tɯ-rme</FORM>
+            <TRANSL xml:lang="fr">\neu-homme</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ʑɤni</FORM>
+            <TRANSL xml:lang="fr">3\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ</FORM>
+            <TRANSL xml:lang="fr">\erg</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-sɯ-ɤpɯpá-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-\caus-se_développer_progressivement-\du</TRANSL>
+        </W>
+    </S>
+    <S id="DELUGEs96">
+        <AUDIO start="500.3534" end="504.3134"/>
+        <FORM kindOf="phono">tɤrɤku nɯ ra kɯ́nɤ li nɯ kɯ-fse ɲɤ-sɤpɯpá-ndʑi kɤ-ti ɲɯ-ŋu.</FORM>
+        <TRANSL xml:lang="fr">et qui ont permis aux céréales de se développer.</TRANSL>
+        <W>
+            <FORM kindOf="phono">tɤ-rɤku</FORM>
+            <TRANSL xml:lang="fr">\neu-récolte</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ra</FORM>
+            <TRANSL xml:lang="fr">\pl</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ́nɤ</FORM>
+            <TRANSL xml:lang="fr">aussi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">li</FORM>
+            <TRANSL xml:lang="fr">encore</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">nɯ</FORM>
+            <TRANSL xml:lang="fr">cela</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɯ-fse</FORM>
+            <TRANSL xml:lang="fr">\nmls:\stat-être_ainsi</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɤ-sɯ-ɤpɯpá-ndʑi</FORM>
+            <TRANSL xml:lang="fr">\med-\caus-se_développer_progressivement-\du</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">kɤ-ti</FORM>
+            <TRANSL xml:lang="fr">\nmls:O-dire</TRANSL>
+        </W>
+        <W>
+            <FORM kindOf="phono">ɲɯ-ŋu</FORM>
+            <TRANSL xml:lang="fr">\ipf-être</TRANSL>
+        </W>
+    </S>
+</TEXT>
