@@ -1,12 +1,32 @@
-# Parser
-I use beautifulsoup or some other Python packages to download language material automatically from a website. 
+# BSParser
+Using beautifulsoup to parse xml files downloded from Pangloss and extract the phonological data and translation from the input file. 
 
-## Goal
-- Test beautifulsoup4. It downloads html scripts. We need to parse the scripts and extract material. 
-- Test librosa. It downloads audio recordings. 
-- Find some Python packages that do the same thing as beautifulsoup4 or librosa. 
+# How to use 
 
-What I want to achieve, a commandline tool that I give it a link from pangloss website and then it will download the material, parse the xml and then save the data in my local storage. 
-Don't ask me why I do not ask my colleague to give me data directly, because I want to do it this way, and I think I can :D 
+Create a virtual environment and install relavent packages via **pip**. Please note that the **nlpenv** contains many libraries that will be used for **natural language processing**
 
-ok.... I am not really familiar with Safari ....I cannot find the shortcut to get inspection ....
+```
+$ python3 -m venv nlpenv
+$ source nlpenv/bin/activate 
+$ python3 -m pip install -r requirements.txt
+```
+
+Create a file contains many web links from **[Pangloss](https://pangloss.cnrs.fr/)**. See the file **example.txt**
+
+```
+https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_LWLU.xml
+https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_DIVINATION.xml
+https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_LOBZANG.xml
+```
+
+Execute the script using the commandline
+
+```
+$ python3 main.py [input_file] [data_folder]
+```
+
+For example, 
+
+```
+python3 main.py example.txt Data
+```

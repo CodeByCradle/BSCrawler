@@ -1,3 +1,4 @@
+
 def create_filename_from_link(web_link: str):
     """Create a filename from a given web link. Ok.... the function sounds so stupid...
 
@@ -26,4 +27,3 @@ def create_input_output_pairs(filename: str):
             filename = create_filename_from_link(link)
             file_pairs[filename] = link
         return file_pairs
-    

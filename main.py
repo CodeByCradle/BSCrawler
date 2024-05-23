@@ -13,7 +13,7 @@ from helper import create_input_output_pairs
 
 class WebCrawler:
     def __init__(self, web_link: list, filename_stem: list):
-        """ initiation.
+        """initiation.
 
         Args:
             web_link (str): _description_
@@ -62,7 +62,7 @@ class WebCrawler:
 
         Args:
             input_array (list): The form or translation
-            output_filename (str): The output file name, the stem, not the .txt or something. 
+            output_filename (str): The output file name, the stem, not the .txt or something.
         """
         with open(output_filename, "w") as output:
             for each_sentence in input_array:
@@ -72,17 +72,20 @@ class WebCrawler:
 if __name__ == "__main__":
     # TODO: find a better way to reduce this argument parser.
     parser = argparse.ArgumentParser()
-    parser.add_argument("input_file", help="Please give a file contains multiple web links.")
-    # TODO: make link input as an option(?). A file with multiple links will be the main input
+    parser.add_argument(
+        "input_file", help="Please give a file contains multiple web links."
+    )
+    # TODO: add an option to take webpage link directly.
     parser.add_argument("data_dir", help="Please give a directory to store the data")
     args = parser.parse_args()
     data_pairs = create_input_output_pairs(args.input_file)
-    data_dir = args.data_dir
-    for filename, link in data_pairs.items(): 
+    data_dir = Path(args.data_dir).mkdir(parents=True, exist_ok=True)
+    for filename, link in data_pairs.items():
         wc = WebCrawler(link, filename)
         xml_file_path = wc.get_material(data_dir)
-        # if xml_file_path:
-        #     # I need to find a better way for this. But now it should do. 
-        #     for tag in ["FORM", "TRANSL"]:
-        #         the_text = wc.extract_by_tag(Path(xml_file_path).as_posix(), tag)
-        #         wc.write_data_to_file(the_text, f"{data_dir}/{tag.lower()}_{filename}.txt")
+        if xml_file_path:
+            for tag in ["FORM", "TRANSL"]:
+                the_text = wc.extract_by_tag(Path(xml_file_path).as_posix(), tag)
+                wc.write_data_to_file(
+                    the_text, f"{data_dir}/{tag.lower()}_{filename}.txt"
+                )
