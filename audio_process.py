@@ -9,10 +9,8 @@ import requests
 import pydub
 from pydub import AudioSegment
 
-# This command works with virtual environment
-pydub.AudioSegment.converter = (
-    "/Users/codebycradle/Library/Application Support/ffmpeg-downloader/ffmpeg"
-)
+# This does not work for Mac system, don't know why. But it will be another debug session?
+pydub.AudioSegment.converter = "[REPLACE WITH YOUR PATH]"
 
 
 # TODO: A better file system, because it might be the problem that the data file cannot find the corresponding audio.

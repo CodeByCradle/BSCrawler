@@ -1,5 +1,9 @@
-# BSParser
-Using beautifulsoup to parse xml files downloded from Pangloss and extract the phonological data and translation from the input file. 
+# Text to speech model for endangered language
+**Kindly note that this is my personal practice repository, where I regularly update the code during my Twitch streaming sessions. If you're intrigued by this project, feel free to join the stream or leave a comment in the issues section**
+
+Delve into the world of linguistic diversity with my project, where I harness the power of Beautiful Soup to gracefully scrape data from the Pangloss website. By parsing the XML files retrieved, I meticulously construct a comprehensive data frame, serving as the backbone for my linguistic exploration.
+
+But that's not all - I extend this venture beyond data collection. Leveraging the audios also sourced from Pangloss, I seamlessly clip them using the information stored in the data frame. These snippets become invaluable assets as I fine-tune a state-of-the-art text-to-speech model.
 
 # How to use 
 
