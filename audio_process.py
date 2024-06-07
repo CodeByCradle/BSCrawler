@@ -10,7 +10,7 @@ import pydub
 
 from pydub import AudioSegment
 # This does not work for Mac system, don't know why. But it will be another debug session?
-pydub.AudioSegment.converter = "/Users/codebycradle/Library/Application Support/ffmpeg-downloader/ffmpeg"
+pydub.AudioSegment.converter = "[REPLACE WITH YOUR PATH]"
 
 
 # Preparation: get the start and end from the xml file, maybe try beautiful soup??
