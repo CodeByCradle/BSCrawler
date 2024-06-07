@@ -5,16 +5,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup as bs
 from lxml import etree  
 import pandas as pd
-# Mac is making some problem here. so I disable it.
-#import pydub
-#from pydub import AudioSegment
-
 from helper import create_input_output_pairs
 
-# TODO: RUN TIME PROBLEM AGAIN. Move it somewhere, don't put it directly in the code.
-#pydub.AudioSegment.converter = (
-#    "/Users/codebycradle/Library/Application Support/ffmpeg-downloader/ffmpeg"
-#)
+# TODO: Create better data stucture in the Data folder. 
 
 class WebCrawler:
     def __init__(self, web_link: list, filename_stem: list):
@@ -65,13 +58,8 @@ class WebCrawler:
         except Exception as e:
             print(f"error is {e}")
 
-    def Clip_Audio(self, start: float, end: float):
-        """Please holder, I will work on this one later.
-        """
-        pass
-
     def write_data_to_file(self, data_dict:dict, output_filename: str):
-        """Write the form, translation, and timestamps to a file
+        """Write the phonology, translation, and timestamps to a file
 
         Args:
             data_dict (dict): A dictionary with form, translation, and timestamps.
@@ -104,5 +92,6 @@ if __name__ == "__main__":
         if xml_file_path:
             data_dict={}
             for tag in ["FORM", "TRANSL", "AUDIO"]:
-                data_dict[tag] = wc.extract_data_by_tag(Path(xml_file_path).as_posix(), tag)    
-            wc.write_data_to_file(data_dict, "test_output")
+                data_dict[tag] = wc.extract_data_by_tag(Path(xml_file_path).as_posix(), tag) 
+            #TODO: find a better way to generate the file name.       
+            wc.write_data_to_file(data_dict, f"audio_{filename}.tsv")
